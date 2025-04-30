@@ -1,0 +1,1262 @@
+﻿Log file open, 08/21/20 12:01:06
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Licenta
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.078924
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1909) (), CPU: AMD Ryzen 7 3750H with Radeon Vega Mobile Gfx  , GPU: NVIDIA GeForce GTX 1660 Ti
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: C:/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.08.21-09.01.07:059][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.08.21-09.01.07:059][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.08.21-09.01.07:059][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Work/Unreal Project/Licenta/Saved/Config/Windows/Engine.ini]
+[2020.08.21-09.01.07:059][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.08.21-09.01.07:059][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Work/Unreal Project/Licenta/Saved/Config/Windows/Engine.ini]
+[2020.08.21-09.01.07:059][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Work/Unreal Project/Licenta/Saved/Config/Windows/Engine.ini]
+[2020.08.21-09.01.07:059][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.08.21-09.01.07:059][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.08.21-09.01.07:059][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.08.21-09.01.07:059][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.08.21-09.01.07:059][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.08.21-09.01.07:060][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.08.21-09.01.07:060][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.08.21-09.01.07:060][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.08.21-09.01.07:060][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.08.21-09.01.07:060][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.08.21-09.01.07:060][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.08.21-09.01.07:060][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.08.21-09.01.07:060][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.08.21-09.01.07:060][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.08.21-09.01.07:060][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Work/Unreal Project/Licenta/Saved/Config/Windows/Engine.ini]
+[2020.08.21-09.01.07:060][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.08.21-09.01.07:060][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.08.21-09.01.07:060][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.08.21-09.01.07:060][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.08.21-09.01.07:060][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.08.21-09.01.07:060][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.08.21-09.01.07:060][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.08.21-09.01.07:060][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.08.21-09.01.07:060][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.08.21-09.01.07:060][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.08.21-09.01.07:060][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.08.21-09.01.07:060][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.08.21-09.01.07:060][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.08.21-09.01.07:060][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Work/Unreal Project/Licenta/Saved/Config/Windows/Engine.ini]
+[2020.08.21-09.01.07:060][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Work/Unreal Project/Licenta/Saved/Config/Windows/Engine.ini]
+[2020.08.21-09.01.07:062][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Work/Unreal Project/Licenta/Saved/Config/Windows/Scalability.ini]
+[2020.08.21-09.01.07:062][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.08.21-09.01.07:062][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.08.21-09.01.07:062][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Work/Unreal Project/Licenta/Saved/Config/Windows/Scalability.ini]
+[2020.08.21-09.01.07:062][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.08.21-09.01.07:062][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Work/Unreal Project/Licenta/Saved/Config/Windows/Scalability.ini]
+[2020.08.21-09.01.07:062][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.08.21-09.01.07:062][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.08.21-09.01.07:062][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.08.21-09.01.07:062][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.08.21-09.01.07:062][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.08.21-09.01.07:062][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.08.21-09.01.07:062][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.08.21-09.01.07:062][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.08.21-09.01.07:062][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.08.21-09.01.07:062][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.08.21-09.01.07:062][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.08.21-09.01.07:062][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.08.21-09.01.07:062][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.08.21-09.01.07:062][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.08.21-09.01.07:062][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.08.21-09.01.07:062][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.08.21-09.01.07:062][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.08.21-09.01.07:062][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.08.21-09.01.07:062][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Work/Unreal Project/Licenta/Saved/Config/Windows/Scalability.ini]
+[2020.08.21-09.01.07:062][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.08.21-09.01.07:062][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.08.21-09.01.07:062][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.08.21-09.01.07:062][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.08.21-09.01.07:062][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.08.21-09.01.07:062][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.08.21-09.01.07:062][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.08.21-09.01.07:062][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.08.21-09.01.07:062][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.08.21-09.01.07:062][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.08.21-09.01.07:062][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.08.21-09.01.07:062][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.08.21-09.01.07:062][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.08.21-09.01.07:062][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.08.21-09.01.07:062][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.08.21-09.01.07:062][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.08.21-09.01.07:063][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.08.21-09.01.07:063][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.08.21-09.01.07:063][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.08.21-09.01.07:063][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.08.21-09.01.07:063][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.08.21-09.01.07:063][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.08.21-09.01.07:063][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.08.21-09.01.07:063][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.08.21-09.01.07:063][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.08.21-09.01.07:063][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.08.21-09.01.07:063][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.08.21-09.01.07:063][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.08.21-09.01.07:063][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.08.21-09.01.07:063][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.08.21-09.01.07:063][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Work/Unreal Project/Licenta/Saved/Config/Windows/Scalability.ini]
+[2020.08.21-09.01.07:063][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.08.21-09.01.07:063][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.08.21-09.01.07:063][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.08.21-09.01.07:063][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.08.21-09.01.07:063][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.08.21-09.01.07:063][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.08.21-09.01.07:063][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.08.21-09.01.07:063][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.08.21-09.01.07:063][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.08.21-09.01.07:063][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Work/Unreal Project/Licenta/Saved/Config/Windows/Scalability.ini]
+[2020.08.21-09.01.07:063][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.08.21-09.01.07:063][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.08.21-09.01.07:063][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.08.21-09.01.07:063][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.08.21-09.01.07:063][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.08.21-09.01.07:063][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.08.21-09.01.07:063][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.08.21-09.01.07:063][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.08.21-09.01.07:063][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.08.21-09.01.07:063][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.08.21-09.01.07:063][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.08.21-09.01.07:063][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.08.21-09.01.07:063][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.08.21-09.01.07:063][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.08.21-09.01.07:063][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.08.21-09.01.07:063][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.08.21-09.01.07:063][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.08.21-09.01.07:063][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.08.21-09.01.07:063][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.08.21-09.01.07:063][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.08.21-09.01.07:063][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.08.21-09.01.07:063][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.08.21-09.01.07:063][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.08.21-09.01.07:063][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.08.21-09.01.07:063][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.08.21-09.01.07:063][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.08.21-09.01.07:063][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Work/Unreal Project/Licenta/Saved/Config/Windows/Scalability.ini]
+[2020.08.21-09.01.07:063][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.08.21-09.01.07:063][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.08.21-09.01.07:063][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Work/Unreal Project/Licenta/Saved/Config/Windows/Scalability.ini]
+[2020.08.21-09.01.07:063][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.08.21-09.01.07:063][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.08.21-09.01.07:063][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.08.21-09.01.07:063][  0]LogInit: Selected Device Profile: [Windows]
+[2020.08.21-09.01.07:063][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.08.21-09.01.07:066][  0]LogHAL: Display: Platform has ~ 8 GB [8384475136 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.08.21-09.01.07:066][  0]LogInit: Going up to parent DeviceProfile []
+[2020.08.21-09.01.07:066][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Work/Unreal Project/Licenta/Saved/Config/Windows/Scalability.ini]
+[2020.08.21-09.01.07:066][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.08.21-09.01.07:066][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.08.21-09.01.07:066][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Work/Unreal Project/Licenta/Saved/Config/Windows/Scalability.ini]
+[2020.08.21-09.01.07:066][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.08.21-09.01.07:066][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Work/Unreal Project/Licenta/Saved/Config/Windows/Scalability.ini]
+[2020.08.21-09.01.07:066][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.08.21-09.01.07:066][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.08.21-09.01.07:066][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.08.21-09.01.07:066][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.08.21-09.01.07:066][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.08.21-09.01.07:066][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.08.21-09.01.07:066][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.08.21-09.01.07:066][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.08.21-09.01.07:066][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.08.21-09.01.07:066][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.08.21-09.01.07:066][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.08.21-09.01.07:066][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.08.21-09.01.07:066][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.08.21-09.01.07:066][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.08.21-09.01.07:066][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.08.21-09.01.07:066][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.08.21-09.01.07:066][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.08.21-09.01.07:066][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.08.21-09.01.07:066][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Work/Unreal Project/Licenta/Saved/Config/Windows/Scalability.ini]
+[2020.08.21-09.01.07:067][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.08.21-09.01.07:067][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.08.21-09.01.07:067][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.08.21-09.01.07:067][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.08.21-09.01.07:067][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.08.21-09.01.07:067][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.08.21-09.01.07:067][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.08.21-09.01.07:067][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.08.21-09.01.07:067][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.08.21-09.01.07:067][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.08.21-09.01.07:067][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.08.21-09.01.07:067][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.08.21-09.01.07:067][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.08.21-09.01.07:067][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.08.21-09.01.07:067][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.08.21-09.01.07:067][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.08.21-09.01.07:067][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.08.21-09.01.07:067][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.08.21-09.01.07:067][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.08.21-09.01.07:067][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.08.21-09.01.07:067][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.08.21-09.01.07:067][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.08.21-09.01.07:067][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.08.21-09.01.07:067][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.08.21-09.01.07:067][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.08.21-09.01.07:067][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.08.21-09.01.07:067][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.08.21-09.01.07:067][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.08.21-09.01.07:067][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.08.21-09.01.07:067][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.08.21-09.01.07:067][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Work/Unreal Project/Licenta/Saved/Config/Windows/Scalability.ini]
+[2020.08.21-09.01.07:067][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.08.21-09.01.07:067][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.08.21-09.01.07:067][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.08.21-09.01.07:067][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.08.21-09.01.07:067][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.08.21-09.01.07:067][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.08.21-09.01.07:067][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.08.21-09.01.07:067][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.08.21-09.01.07:067][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.08.21-09.01.07:067][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Work/Unreal Project/Licenta/Saved/Config/Windows/Scalability.ini]
+[2020.08.21-09.01.07:067][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.08.21-09.01.07:067][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.08.21-09.01.07:067][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.08.21-09.01.07:067][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.08.21-09.01.07:067][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.08.21-09.01.07:067][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.08.21-09.01.07:067][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.08.21-09.01.07:067][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.08.21-09.01.07:067][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.08.21-09.01.07:067][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.08.21-09.01.07:067][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.08.21-09.01.07:067][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.08.21-09.01.07:067][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.08.21-09.01.07:067][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.08.21-09.01.07:067][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.08.21-09.01.07:067][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.08.21-09.01.07:067][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.08.21-09.01.07:067][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.08.21-09.01.07:067][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.08.21-09.01.07:067][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.08.21-09.01.07:067][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.08.21-09.01.07:067][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.08.21-09.01.07:067][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.08.21-09.01.07:067][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.08.21-09.01.07:067][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.08.21-09.01.07:067][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.08.21-09.01.07:067][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Work/Unreal Project/Licenta/Saved/Config/Windows/Scalability.ini]
+[2020.08.21-09.01.07:067][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.08.21-09.01.07:067][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.08.21-09.01.07:068][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Work/Unreal Project/Licenta/Saved/Config/Windows/Scalability.ini]
+[2020.08.21-09.01.07:068][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.08.21-09.01.07:068][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.08.21-09.01.07:068][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.08.21-09.01.07:068][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.08.21-09.01.07:068][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.08.21-09.01.07:068][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.08.21-09.01.07:068][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Work/Unreal Project/Licenta/Saved/Config/Windows/Engine.ini]
+[2020.08.21-09.01.07:068][  0]LogInit: Computer: DESKTOP-BNDJ5EB
+[2020.08.21-09.01.07:068][  0]LogInit: User: sanah
+[2020.08.21-09.01.07:068][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.08.21-09.01.07:068][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.08.21-09.01.07:068][  0]LogMemory: Memory total: Physical=7.8GB (8GB approx)
+[2020.08.21-09.01.07:068][  0]LogMemory: Platform Memory Stats for Windows
+[2020.08.21-09.01.07:068][  0]LogMemory: Process Physical Memory: 104.42 MB used, 104.43 MB peak
+[2020.08.21-09.01.07:068][  0]LogMemory: Process Virtual Memory: 100.42 MB used, 100.42 MB peak
+[2020.08.21-09.01.07:068][  0]LogMemory: Physical Memory: 4203.54 MB used,  3792.52 MB free, 7996.06 MB total
+[2020.08.21-09.01.07:068][  0]LogMemory: Virtual Memory: 5137.60 MB used,  134212592.00 MB free, 134217728.00 MB total
+[2020.08.21-09.01.07:071][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.08.21-09.01.07:095][  0]LogInit: Using OS detected language (en-US).
+[2020.08.21-09.01.07:095][  0]LogInit: Using OS detected locale (en-US).
+[2020.08.21-09.01.07:096][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.08.21-09.01.07:294][  0]LogInit: Setting process to per monitor DPI aware
+[2020.08.21-09.01.07:323][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.08.21-09.01.07:323][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.08.21-09.01.07:494][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.08.21-09.01.07:494][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.08.21-09.01.07:494][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.08.21-09.01.07:494][  0]LogD3D11RHI: D3D11 adapters:
+[2020.08.21-09.01.07:602][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1660 Ti' (Feature Level 11_0)
+[2020.08.21-09.01.07:602][  0]LogD3D11RHI:       5991/0/3998 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.08.21-09.01.07:605][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.08.21-09.01.07:605][  0]LogD3D11RHI:       0/0/3998 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.08.21-09.01.07:608][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.08.21-09.01.07:608][  0]LogD3D11RHI:       0/0/3998 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.08.21-09.01.07:608][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.08.21-09.01.07:617][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.08.21-09.01.07:618][  0]LogD3D11RHI:     GPU DeviceId: 0x2191 (for the marketing name, search the web for "GPU Device Id")
+[2020.08.21-09.01.07:618][  0]LogWindows: EnumDisplayDevices:
+[2020.08.21-09.01.07:618][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1660 Ti' (P:1 D:1)
+[2020.08.21-09.01.07:618][  0]LogWindows:    1. 'Microsoft Basic Display Driver' (P:0 D:0)
+[2020.08.21-09.01.07:618][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter 
+[2020.08.21-09.01.07:618][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1660 Ti
+[2020.08.21-09.01.07:618][  0]LogD3D11RHI:   Driver Version: 452.06 (internal:27.21.14.5206, unified:452.06)
+[2020.08.21-09.01.07:618][  0]LogD3D11RHI:      Driver Date: 8-12-2020
+[2020.08.21-09.01.07:618][  0]LogRHI: Texture pool is 4193 MB (70% of 5991 MB)
+[2020.08.21-09.01.07:695][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.08.21-09.01.07:695][  0]LogD3D11RHI: Async texture creation enabled
+[2020.08.21-09.01.07:712][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.08.21-09.01.08:002][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.08.21-09.01.08:036][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.08.21-09.01.08:036][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.08.21-09.01.08:036][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.08.21-09.01.08:036][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.08.21-09.01.08:036][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.08.21-09.01.08:036][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.08.21-09.01.08:036][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.08.21-09.01.08:036][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.08.21-09.01.08:036][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.08.21-09.01.08:036][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.08.21-09.01.08:036][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.08.21-09.01.08:036][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.08.21-09.01.08:036][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.08.21-09.01.08:036][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.08.21-09.01.08:036][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.08.21-09.01.08:037][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.08.21-09.01.08:037][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.08.21-09.01.08:037][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.08.21-09.01.08:056][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.08.21-09.01.08:056][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.08.21-09.01.08:064][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.08.21-09.01.08:071][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.08.21-09.01.08:079][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.08.21-09.01.08:087][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.08.21-09.01.08:094][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.08.21-09.01.08:102][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.08.21-09.01.08:128][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.08.21-09.01.08:128][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.08.21-09.01.08:143][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.08.21-09.01.08:143][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.08.21-09.01.08:151][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.08.21-09.01.08:159][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.08.21-09.01.08:167][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.08.21-09.01.08:174][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.08.21-09.01.08:175][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.08.21-09.01.08:178][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.08.21-09.01.08:205][  0]LogShaderCompilers: Guid format shader working directory is 16 characters bigger than the processId version (D:/Work/Unreal Project/Licenta/Intermediate/Shaders/WorkingDirectory/9340/).
+[2020.08.21-09.01.08:205][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/sanah/AppData/Local/Temp/UnrealShaderWorkingDir/4889A0E84E309F1911114CAEB7771DD6/'.
+[2020.08.21-09.01.08:205][  0]LogXGEController: Cleaning working directory: C:/Users/sanah/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.08.21-09.01.08:206][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.08.21-09.01.08:206][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.08.21-09.01.08:206][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.08.21-09.01.08:937][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.08.21-09.01.09:010][  0]LogDerivedDataCache: Loaded boot cache 0.07s 78MB C:/Users/sanah/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.08.21-09.01.09:010][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/sanah/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.08.21-09.01.09:010][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Work/Unreal Project/Licenta/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.08.21-09.01.09:010][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.08.21-09.01.09:010][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Work/Unreal Project/Licenta/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.08.21-09.01.09:010][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.08.21-09.01.09:022][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.08.21-09.01.09:022][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.08.21-09.01.09:022][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.08.21-09.01.09:023][  0]LogDerivedDataCache: Using Local data cache path C:/Users/sanah/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.08.21-09.01.09:023][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.08.21-09.01.09:023][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.08.21-09.01.09:050][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.08.21-09.01.09:053][  0]LogSlate: Using FreeType 2.10.0
+[2020.08.21-09.01.09:053][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.08.21-09.01.09:107][  0]LogAssetRegistry: FAssetRegistry took 0.0036 seconds to start up
+[2020.08.21-09.01.09:454][  0]LogInit: Selected Device Profile: [Windows]
+[2020.08.21-09.01.09:613][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.08.21-09.01.09:613][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.08.21-09.01.09:613][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.08.21-09.01.09:613][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.08.21-09.01.09:613][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.08.21-09.01.09:629][  0]LogNetVersion: Licenta 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 1519637570)
+[2020.08.21-09.01.10:708][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.046946 seconds
+[2020.08.21-09.01.10:717][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.08.21-09.01.10:717][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.08.21-09.01.10:717][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.08.21-09.01.11:158][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.08.21-09.01.11:162][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.08.21-09.01.11:223][  0]SourceControl: Source control is disabled
+[2020.08.21-09.01.11:223][  0]SourceControl: Source control is disabled
+[2020.08.21-09.01.11:224][  0]SourceControl: Source control is disabled
+[2020.08.21-09.01.11:225][  0]SourceControl: Source control is disabled
+[2020.08.21-09.01.11:226][  0]SourceControl: Source control is disabled
+[2020.08.21-09.01.11:235][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.08.21-09.01.11:235][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.08.21-09.01.11:317][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.08.21-09.01.11:330][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.08.21-09.01.11:330][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.08.21-09.01.11:426][  0]LogOcInput: OculusInput pre-init called
+[2020.08.21-09.01.11:436][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.08.21-09.01.11:436][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.08.21-09.01.11:511][  0]LogEngine: Initializing Engine...
+[2020.08.21-09.01.11:512][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.08.21-09.01.11:513][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.08.21-09.01.11:899][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.08.21-09.01.11:908][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.08.21-09.01.11:918][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.21-09.01.11:918][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.21-09.01.11:918][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.21-09.01.11:918][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.21-09.01.11:918][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.21-09.01.11:918][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.21-09.01.11:918][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.21-09.01.11:918][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.21-09.01.11:919][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.21-09.01.11:919][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.21-09.01.11:930][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.08.21-09.01.11:930][  0]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.08.21-09.01.11:930][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.08.21-09.01.11:930][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.08.21-09.01.11:930][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.08.21-09.01.11:930][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.08.21-09.01.11:930][  0]LogAudioMixer: Display: Channel Order:
+[2020.08.21-09.01.11:930][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.21-09.01.11:930][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.08.21-09.01.12:052][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.08.21-09.01.12:058][  0]LogInit: FAudioDevice initialized.
+[2020.08.21-09.01.12:059][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.08.21-09.01.12:125][  0]LogDerivedDataCache: Saved boot cache 0.07s 78MB C:/Users/sanah/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.08.21-09.01.12:131][  0]LogInit: Texture streaming: Enabled
+[2020.08.21-09.01.12:147][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.08.21-09.01.12:147][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={DFF0EFC7-4764-F575-940D-70B4AD99DB0F}
+[2020.08.21-09.01.12:147][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.08.21-09.01.12:149][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.08.21-09.01.12:210][  0]LogInit: Transaction tracking system initialized
+[2020.08.21-09.01.12:221][  0]BlueprintLog: New page: Editor Load
+[2020.08.21-09.01.12:252][  0]LocalizationService: Localization service is disabled
+[2020.08.21-09.01.12:305][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.08.21-09.01.12:306][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.08.21-09.01.12:557][  0]LogFileCache: Scanning file cache for directory 'D:/Work/Unreal Project/Licenta/Content/' took 0.00s
+[2020.08.21-09.01.12:557][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.08.21-09.01.12:557][  0]LogCook: Display: Mobile HDR setting 1
+[2020.08.21-09.01.13:225][  0]SourceControl: Source control is disabled
+[2020.08.21-09.01.13:225][  0]Cmd: MAP LOAD FILE="D:/Work/Unreal Project/Licenta/Content/GameMaps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.08.21-09.01.13:226][  0]LightingResults: New page: Lighting Build
+[2020.08.21-09.01.13:226][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.08.21-09.01.13:226][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.21-09.01.13:227][  0]MapCheck: New page: Map Check
+[2020.08.21-09.01.13:227][  0]LightingResults: New page: Lighting Build
+[2020.08.21-09.01.13:252][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.08.21-09.01.13:593][  0]LogAIModule: Creating AISystem for world MainMenu
+[2020.08.21-09.01.13:613][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.08.21-09.01.13:639][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2020.08.21-09.01.13:639][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.08.21-09.01.13:639][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.097ms to complete.
+[2020.08.21-09.01.13:639][  0]LogFileHelpers: Loading map 'MainMenu' took 0.414
+[2020.08.21-09.01.13:784][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.21-09.01.13:792][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.21-09.01.13:800][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.21-09.01.13:807][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.21-09.01.13:813][  0]LogCollectionManager: Loaded 0 collections in 0.001972 seconds
+[2020.08.21-09.01.13:828][  0]LogFileCache: Scanning file cache for directory 'D:/Work/Unreal Project/Licenta/Saved/Collections/' took 0.00s
+[2020.08.21-09.01.13:828][  0]LogFileCache: Scanning file cache for directory 'D:/Work/Unreal Project/Licenta/Content/Developers/sanah/Collections/' took 0.00s
+[2020.08.21-09.01.13:828][  0]LogFileCache: Scanning file cache for directory 'D:/Work/Unreal Project/Licenta/Content/Collections/' took 0.00s
+[2020.08.21-09.01.13:828][  0]LogContentBrowser: Native class hierarchy populated in 0.0095 seconds. Added 3015 classes and 717 folders.
+[2020.08.21-09.01.13:830][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.08.21-09.01.13:882][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.08.21-09.01.13:886][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2020.08.21-09.01.13:925][  0]LogSlate: Took 0.000249 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.08.21-09.01.13:927][  0]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.08.21-09.01.13:931][  0]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.08.21-09.01.14:004][  0]LogRenderer: Reallocating scene render targets to support 1248x572 Format 10 NumSamples 1 (Frame:1).
+[2020.08.21-09.01.14:115][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.08.21-09.01.14:115][  0]LogLoad: (Engine Initialization) Total time: 8.59 seconds
+[2020.08.21-09.01.14:115][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.08.21-09.01.14:172][  0]LogAssetRegistry: Asset discovery search completed in 5.0660 seconds
+[2020.08.21-09.01.14:176][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000008 seconds (updated 0 objects)
+[2020.08.21-09.01.14:177][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.08.21-09.01.14:213][  0]LogSlate: Took 0.000232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.08.21-09.01.15:160][ 56]LogSlate: Took 0.000246 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.08.21-09.01.17:981][151]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/CustomAssets/Animation/BluePlatforms_PuzzleLevel.BluePlatforms_PuzzleLevel
+[2020.08.21-09.01.21:095][248]LogSlate: Window 'Sequencer' being destroyed
+[2020.08.21-09.01.21:101][248]LogSlate: Window 'Sequencer' being destroyed
+[2020.08.21-09.01.22:662][308]LogAIModule: Creating AISystem for world PuzzleLevel
+[2020.08.21-09.01.22:733][308]LogAssetEditorSubsystem: Opening Asset editor for World /Game/GameMaps/PuzzleLevel.PuzzleLevel
+[2020.08.21-09.01.22:770][308]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2020.08.21-09.01.22:772][308]Cmd: MAP LOAD FILE="D:/Work/Unreal Project/Licenta/Content/GameMaps/PuzzleLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.08.21-09.01.22:772][308]LightingResults: New page: Lighting Build
+[2020.08.21-09.01.22:773][308]LoadErrors: New page: Loading map: PuzzleLevel.umap
+[2020.08.21-09.01.22:774][308]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.08.21-09.01.22:774][308]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.21-09.01.22:774][308]MapCheck: New page: Map Check
+[2020.08.21-09.01.22:774][308]LightingResults: New page: Lighting Build
+[2020.08.21-09.01.22:802][308]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.08.21-09.01.22:904][308]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.08.21-09.01.22:938][308]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.08.21-09.01.22:972][308]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.08.21-09.01.22:972][308]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.196ms to complete.
+[2020.08.21-09.01.22:972][308]LogFileHelpers: Loading map 'PuzzleLevel' took 0.201
+[2020.08.21-09.01.25:061][425]LogEditorViewport: Clicking on Actor (LMB): GreenPass_Obstacle_C (GreenPass_Obstacle)
+[2020.08.21-09.01.25:731][463]Cmd: DELETE
+[2020.08.21-09.01.25:731][463]Cmd: ACTOR DELETE
+[2020.08.21-09.01.25:828][463]LogEditorActor: Deleted Actor: GreenPass_Obstacle_C
+[2020.08.21-09.01.25:856][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.08.21-09.01.25:861][463]LogEditorActor: Deleted 1 Actors (0.129 secs)
+[2020.08.21-09.01.25:933][467]LogEditorViewport: Clicking on Actor (LMB): GreenPass_Obstacle_C (GreenPass_Obstacle2)
+[2020.08.21-09.01.26:027][471]Cmd: DELETE
+[2020.08.21-09.01.26:027][471]Cmd: ACTOR DELETE
+[2020.08.21-09.01.26:042][471]LogEditorActor: Deleted Actor: GreenPass_Obstacle_C
+[2020.08.21-09.01.26:069][471]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2020.08.21-09.01.26:072][471]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2020.08.21-09.01.34:168][957]LogEditorViewport: Clicking on Actor (LMB): RedBlock_Obstacle_C (RedBlock_Obstacle)
+[2020.08.21-09.01.38:232][196]LogEditorViewport: Clicking on Actor (LMB): AutoPlatform_Obstacle_C (AutoPlatform_Obstacle2)
+[2020.08.21-09.01.38:635][218]Cmd: EDIT COPY
+[2020.08.21-09.01.38:808][228]Cmd: EDIT PASTE
+[2020.08.21-09.01.53:809][116]Cmd: SELECT NONE
+[2020.08.21-09.01.56:987][305]LogEditorViewport: Clicking on Actor (LMB): AutoPlatform_Obstacle_C (AutoPlatform_Obstacle11)
+[2020.08.21-09.01.58:796][407]Cmd: SELECT NONE
+[2020.08.21-09.02.01:274][555]LogEditorViewport: Clicking on Actor (LMB): AutoPlatform_Obstacle_C (AutoPlatform_Obstacle11)
+[2020.08.21-09.02.03:253][668]Cmd: SELECT NONE
+[2020.08.21-09.02.20:727][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2020.08.21-09.02.20:764][ 80]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMaps/PuzzleLevel" FILE="D:/Work/Unreal Project/Licenta/Content/GameMaps/PuzzleLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.21-09.02.20:793][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.08.21-09.02.21:042][ 80]LogSavePackage: Moving 'D:/Work/Unreal Project/Licenta/Saved/PuzzleLevel98F4C000425436140DB26D83B5A58874.tmp' to 'D:/Work/Unreal Project/Licenta/Content/GameMaps/PuzzleLevel.umap'
+[2020.08.21-09.02.21:077][ 80]LogFileHelpers: Saving map 'PuzzleLevel' took 0.313
+[2020.08.21-09.02.21:101][ 80]AssetCheck: New page: Asset Save: PuzzleLevel
+[2020.08.21-09.02.21:101][ 80]LogContentValidation: Display: Validating World /Game/GameMaps/PuzzleLevel.PuzzleLevel
+[2020.08.21-09.02.35:330][841]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/CustomAssets/Animation/BluePlatforms_PuzzleLevel.BluePlatforms_PuzzleLevel
+[2020.08.21-09.02.42:389][ 51]LogEditorViewport: Clicking on Actor (LMB): BluePlatform_C (BluePlatform2)
+[2020.08.21-09.02.47:629][192]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomAssets/Animation/BluePlatforms_PuzzleLevel" FILE="D:/Work/Unreal Project/Licenta/Content/CustomAssets/Animation/BluePlatforms_PuzzleLevel.uasset" SILENT=true
+[2020.08.21-09.02.47:656][192]LogSavePackage: Moving 'D:/Work/Unreal Project/Licenta/Saved/BluePlatforms_PuzzleLevelB0A22DA3443F2E0306B5A88437698605.tmp' to 'D:/Work/Unreal Project/Licenta/Content/CustomAssets/Animation/BluePlatforms_PuzzleLevel.uasset'
+[2020.08.21-09.02.47:685][192]AssetCheck: New page: Asset Save: BluePlatforms_PuzzleLevel
+[2020.08.21-09.02.47:685][192]LogContentValidation: Display: Validating LevelSequence /Game/CustomAssets/Animation/BluePlatforms_PuzzleLevel.BluePlatforms_PuzzleLevel
+[2020.08.21-09.02.58:463][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomAssets/Animation/BluePlatforms_PuzzleLevel" FILE="D:/Work/Unreal Project/Licenta/Content/CustomAssets/Animation/BluePlatforms_PuzzleLevel.uasset" SILENT=true
+[2020.08.21-09.02.58:485][543]LogSavePackage: Moving 'D:/Work/Unreal Project/Licenta/Saved/BluePlatforms_PuzzleLevelB0C845E64F993B86BF2DFC91A1C414C7.tmp' to 'D:/Work/Unreal Project/Licenta/Content/CustomAssets/Animation/BluePlatforms_PuzzleLevel.uasset'
+[2020.08.21-09.02.58:514][543]AssetCheck: New page: Asset Save: BluePlatforms_PuzzleLevel
+[2020.08.21-09.02.58:514][543]LogContentValidation: Display: Validating LevelSequence /Game/CustomAssets/Animation/BluePlatforms_PuzzleLevel.BluePlatforms_PuzzleLevel
+[2020.08.21-09.03.15:864][123]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomAssets/Animation/BluePlatforms_PuzzleLevel" FILE="D:/Work/Unreal Project/Licenta/Content/CustomAssets/Animation/BluePlatforms_PuzzleLevel.uasset" SILENT=true
+[2020.08.21-09.03.15:891][123]LogSavePackage: Moving 'D:/Work/Unreal Project/Licenta/Saved/BluePlatforms_PuzzleLevel2F7568E547E41277DC45EBB26EC1A64F.tmp' to 'D:/Work/Unreal Project/Licenta/Content/CustomAssets/Animation/BluePlatforms_PuzzleLevel.uasset'
+[2020.08.21-09.03.15:926][123]AssetCheck: New page: Asset Save: BluePlatforms_PuzzleLevel
+[2020.08.21-09.03.15:926][123]LogContentValidation: Display: Validating LevelSequence /Game/CustomAssets/Animation/BluePlatforms_PuzzleLevel.BluePlatforms_PuzzleLevel
+[2020.08.21-09.03.33:063][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomAssets/Animation/BluePlatforms_PuzzleLevel" FILE="D:/Work/Unreal Project/Licenta/Content/CustomAssets/Animation/BluePlatforms_PuzzleLevel.uasset" SILENT=true
+[2020.08.21-09.03.33:088][690]LogSavePackage: Moving 'D:/Work/Unreal Project/Licenta/Saved/BluePlatforms_PuzzleLevel25FE430A47D43DE931814BB62B1B6537.tmp' to 'D:/Work/Unreal Project/Licenta/Content/CustomAssets/Animation/BluePlatforms_PuzzleLevel.uasset'
+[2020.08.21-09.03.33:118][690]AssetCheck: New page: Asset Save: BluePlatforms_PuzzleLevel
+[2020.08.21-09.03.33:118][690]LogContentValidation: Display: Validating LevelSequence /Game/CustomAssets/Animation/BluePlatforms_PuzzleLevel.BluePlatforms_PuzzleLevel
+[2020.08.21-09.04.28:262][331]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomAssets/Animation/BluePlatforms_PuzzleLevel" FILE="D:/Work/Unreal Project/Licenta/Content/CustomAssets/Animation/BluePlatforms_PuzzleLevel.uasset" SILENT=true
+[2020.08.21-09.04.28:292][331]LogSavePackage: Moving 'D:/Work/Unreal Project/Licenta/Saved/BluePlatforms_PuzzleLevelBD82BDF748AFAFCB0F28E995F4ADCE5E.tmp' to 'D:/Work/Unreal Project/Licenta/Content/CustomAssets/Animation/BluePlatforms_PuzzleLevel.uasset'
+[2020.08.21-09.04.28:321][331]AssetCheck: New page: Asset Save: BluePlatforms_PuzzleLevel
+[2020.08.21-09.04.28:321][331]LogContentValidation: Display: Validating LevelSequence /Game/CustomAssets/Animation/BluePlatforms_PuzzleLevel.BluePlatforms_PuzzleLevel
+[2020.08.21-09.04.29:733][379]LogSlate: Window 'Sequencer' being destroyed
+[2020.08.21-09.04.29:735][379]LogSlate: Window 'Sequencer' being destroyed
+[2020.08.21-09.04.40:880][934]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMaps/PuzzleLevel" FILE="D:/Work/Unreal Project/Licenta/Content/GameMaps/PuzzleLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.21-09.04.40:912][934]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.08.21-09.04.41:151][934]LogSavePackage: Moving 'D:/Work/Unreal Project/Licenta/Saved/PuzzleLevel24B3D0004A245599DC49FC9A76A10E04.tmp' to 'D:/Work/Unreal Project/Licenta/Content/GameMaps/PuzzleLevel.umap'
+[2020.08.21-09.04.41:184][934]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMaps/PuzzleLevel_BuiltData" FILE="D:/Work/Unreal Project/Licenta/Content/GameMaps/PuzzleLevel_BuiltData.uasset" SILENT=true
+[2020.08.21-09.04.41:571][934]LogSavePackage: Moving 'D:/Work/Unreal Project/Licenta/Saved/PuzzleLevel_BuiltData15C8E3A043488FE5D9C437993EF1070F.tmp' to 'D:/Work/Unreal Project/Licenta/Content/GameMaps/PuzzleLevel_BuiltData.uasset'
+[2020.08.21-09.04.41:608][934]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.21-09.04.41:608][934]LogContentValidation: Display: Validating World /Game/GameMaps/PuzzleLevel.PuzzleLevel
+[2020.08.21-09.04.41:608][934]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/GameMaps/PuzzleLevel_BuiltData.PuzzleLevel_BuiltData
+[2020.08.21-09.04.42:549][980]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.21-09.04.42:569][980]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.21-09.04.42:569][980]PIE: New page: PIE session: PuzzleLevel (Aug 21, 2020, 3:04:42 PM)
+[2020.08.21-09.04.42:570][980]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.08.21-09.04.42:572][980]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.08.21-09.04.42:572][980]LogPlayLevel: Creating play world package: /Game/GameMaps/UEDPIE_0_PuzzleLevel
+[2020.08.21-09.04.42:618][980]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045391s)
+[2020.08.21-09.04.42:619][980]LogAIModule: Creating AISystem for world PuzzleLevel
+[2020.08.21-09.04.42:619][980]LogPlayLevel: PIE: World Init took: (0.001107s)
+[2020.08.21-09.04.42:619][980]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameMaps/PuzzleLevel.PuzzleLevel to /Game/GameMaps/UEDPIE_0_PuzzleLevel.PuzzleLevel (0.046909s)
+[2020.08.21-09.04.42:647][980]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.08.21-09.04.42:649][980]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.21-09.04.42:649][980]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.21-09.04.42:650][980]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.21-09.04.42:650][980]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.21-09.04.42:650][980]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.21-09.04.42:650][980]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.21-09.04.42:650][980]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.21-09.04.42:650][980]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.21-09.04.42:650][980]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.21-09.04.42:650][980]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.21-09.04.42:657][980]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.08.21-09.04.42:657][980]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.08.21-09.04.42:657][980]LogAudioMixer: Display: Is Default: Yes
+[2020.08.21-09.04.42:657][980]LogAudioMixer: Display: Sample Rate: 48000
+[2020.08.21-09.04.42:657][980]LogAudioMixer: Display: Channel Count Used: 2
+[2020.08.21-09.04.42:657][980]LogAudioMixer: Display: Device Channel Count: 2
+[2020.08.21-09.04.42:657][980]LogAudioMixer: Display: Channel Order:
+[2020.08.21-09.04.42:657][980]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.21-09.04.42:657][980]LogAudioMixer: Display: 1: FrontRight
+[2020.08.21-09.04.42:690][980]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.08.21-09.04.42:693][980]LogInit: FAudioDevice initialized.
+[2020.08.21-09.04.42:778][980]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.21-09.04.42:802][980]LogWorld: Bringing World /Game/GameMaps/UEDPIE_0_PuzzleLevel.PuzzleLevel up for play (max tick rate 60) at 2020.08.21-12.04.42
+[2020.08.21-09.04.42:803][980]LogWorld: Bringing up level for play took: 0.024215
+[2020.08.21-09.04.42:803][980]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2020.08.21-09.04.42:807][980]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.08.21-09.04.42:811][980]PIE: Play in editor start time for /Game/GameMaps/UEDPIE_0_PuzzleLevel -0.616
+[2020.08.21-09.04.48:258][295]LogCharacterMovement: ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-599.89 Y=11.73 Z=0.00 Location: X=-4116.96 Y=-2503.06 Z=2640.73 Normal: X=0.00 Y=-1.00 Z=0.00 PenetrationDepth:0.000 Actor:AutoPlatform_Obstacle2 Component:Cube BoneName:None (0 other events since notify)
+[2020.08.21-09.05.05:243][314]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.21-09.05.05:243][314]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.21-09.05.05:244][314]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.21-09.05.05:244][314]LogWorld: BeginTearingDown for /Game/GameMaps/UEDPIE_0_PuzzleLevel
+[2020.08.21-09.05.05:244][314]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.21-09.05.05:245][314]LogWorld: UWorld::CleanupWorld for PuzzleLevel, bSessionEnded=true, bCleanupResources=true
+[2020.08.21-09.05.05:248][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.21-09.05.05:256][314]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.21-09.05.05:261][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.21-09.05.05:286][314]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.21-09.05.05:292][314]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.21-09.05.05:299][314]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2020.08.21-09.05.05:348][316]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.08.21-09.05.08:148][484]LogEditorViewport: Clicking on Actor (LMB): AutoPlatform_Obstacle_C (AutoPlatform_Obstacle8)
+[2020.08.21-09.05.12:962][737]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/CustomAssets/Animation/AutoPlatform_Start_PuzzleLevel.AutoPlatform_Start_PuzzleLevel
+[2020.08.21-09.05.14:418][784]LogEditorViewport: Clicking on Actor (LMB): AutoPlatform_Obstacle_C (AutoPlatform_Obstacle8)
+[2020.08.21-09.05.21:290][ 17]LogEditorViewport: Clicking on Actor (LMB): AutoPlatform_Obstacle_C (AutoPlatform_Obstacle8)
+[2020.08.21-09.05.22:533][ 59]Cmd: EDIT COPY
+[2020.08.21-09.05.22:737][ 66]Cmd: EDIT PASTE
+[2020.08.21-09.05.28:213][254]Cmd: SELECT NONE
+[2020.08.21-09.05.33:420][435]LogEditorViewport: Clicking on Actor (LMB): BluePlatform_C (BluePlatform2)
+[2020.08.21-09.05.35:349][500]LogSlate: Window 'Sequencer' being destroyed
+[2020.08.21-09.05.35:351][500]LogSlate: Window 'Sequencer' being destroyed
+[2020.08.21-09.05.38:227][596]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2020.08.21-09.05.38:261][596]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMaps/PuzzleLevel" FILE="D:/Work/Unreal Project/Licenta/Content/GameMaps/PuzzleLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.21-09.05.38:288][596]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.08.21-09.05.38:519][596]LogSavePackage: Moving 'D:/Work/Unreal Project/Licenta/Saved/PuzzleLevel0E0CF78B446A886268AFC0AC0D92EDF4.tmp' to 'D:/Work/Unreal Project/Licenta/Content/GameMaps/PuzzleLevel.umap'
+[2020.08.21-09.05.38:552][596]LogFileHelpers: Saving map 'PuzzleLevel' took 0.291
+[2020.08.21-09.05.38:578][596]LogSavePackage: Moving 'D:/Work/Unreal Project/Licenta/Saved/AutoPlatform_Start_PuzzleLevel3EF534C14EB1C9978FE1A8B3AE151CD7.tmp' to 'D:/Work/Unreal Project/Licenta/Content/CustomAssets/Animation/AutoPlatform_Start_PuzzleLevel.uasset'
+[2020.08.21-09.05.38:612][596]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.21-09.05.38:612][596]LogContentValidation: Display: Validating World /Game/GameMaps/PuzzleLevel.PuzzleLevel
+[2020.08.21-09.05.38:612][596]LogContentValidation: Display: Validating LevelSequence /Game/CustomAssets/Animation/AutoPlatform_Start_PuzzleLevel.AutoPlatform_Start_PuzzleLevel
+[2020.08.21-09.14.55:636][856]Cmd: SELECT NONE
+[2020.08.21-09.14.58:632][  5]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/CustomAssets/Animation/BluePlatform_Tutorial.BluePlatform_Tutorial
+[2020.08.21-09.15.00:723][ 74]LogEditorViewport: Clicking on Actor (LMB): BluePlatform_C (BluePlatform2)
+[2020.08.21-09.15.08:375][328]LogSlate: Window 'Sequencer' being destroyed
+[2020.08.21-09.15.08:377][328]LogSlate: Window 'Sequencer' being destroyed
+[2020.08.21-09.15.10:696][435]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/CustomAssets/Animation/AutoPlatform_Tutorial.AutoPlatform_Tutorial
+[2020.08.21-09.15.12:135][480]LogSlate: Window 'Sequencer' being destroyed
+[2020.08.21-09.15.12:136][480]LogSlate: Window 'Sequencer' being destroyed
+[2020.08.21-09.15.13:845][554]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/CustomAssets/Animation/BluePlatforms_PuzzleLevel.BluePlatforms_PuzzleLevel
+[2020.08.21-09.15.28:230][973]LogEditorViewport: Clicking on Actor (LMB): BluePlatform_C (BluePlatform2)
+[2020.08.21-09.16.42:663][547]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomAssets/Animation/BluePlatforms_PuzzleLevel" FILE="D:/Work/Unreal Project/Licenta/Content/CustomAssets/Animation/BluePlatforms_PuzzleLevel.uasset" SILENT=true
+[2020.08.21-09.16.42:697][547]LogSavePackage: Moving 'D:/Work/Unreal Project/Licenta/Saved/BluePlatforms_PuzzleLevelCE8711CC4A0DE00265077396681E4AFD.tmp' to 'D:/Work/Unreal Project/Licenta/Content/CustomAssets/Animation/BluePlatforms_PuzzleLevel.uasset'
+[2020.08.21-09.16.42:722][547]AssetCheck: New page: Asset Save: BluePlatforms_PuzzleLevel
+[2020.08.21-09.16.42:722][547]LogContentValidation: Display: Validating LevelSequence /Game/CustomAssets/Animation/BluePlatforms_PuzzleLevel.BluePlatforms_PuzzleLevel
+[2020.08.21-09.17.25:413][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomAssets/Animation/BluePlatforms_PuzzleLevel" FILE="D:/Work/Unreal Project/Licenta/Content/CustomAssets/Animation/BluePlatforms_PuzzleLevel.uasset" SILENT=true
+[2020.08.21-09.17.25:437][782]LogSavePackage: Moving 'D:/Work/Unreal Project/Licenta/Saved/BluePlatforms_PuzzleLevel5F8DB3BF4F76FE574CBF57A6930989AB.tmp' to 'D:/Work/Unreal Project/Licenta/Content/CustomAssets/Animation/BluePlatforms_PuzzleLevel.uasset'
+[2020.08.21-09.17.25:467][782]AssetCheck: New page: Asset Save: BluePlatforms_PuzzleLevel
+[2020.08.21-09.17.25:467][782]LogContentValidation: Display: Validating LevelSequence /Game/CustomAssets/Animation/BluePlatforms_PuzzleLevel.BluePlatforms_PuzzleLevel
+[2020.08.21-09.17.26:633][822]LogSlate: Window 'Sequencer' being destroyed
+[2020.08.21-09.17.26:635][822]LogSlate: Window 'Sequencer' being destroyed
+[2020.08.21-09.17.29:010][912]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2020.08.21-09.17.32:880][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2020.08.21-09.17.51:146][142]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/CustomAssets/Animation/BluePlatforms_PuzzleLevel.BluePlatforms_PuzzleLevel
+[2020.08.21-09.17.57:721][334]LogSlate: Window 'Sequencer' being destroyed
+[2020.08.21-09.17.57:722][334]LogSlate: Window 'Sequencer' being destroyed
+[2020.08.21-09.18.05:481][783]LogEditorViewport: Clicking on Actor (LMB): AutoPlatform_Obstacle_C (AutoPlatform_Obstacle10)
+[2020.08.21-09.18.15:469][348]Cmd: DELETE
+[2020.08.21-09.18.15:469][348]Cmd: ACTOR DELETE
+[2020.08.21-09.18.15:485][348]LogEditorActor: Deleted Actor: AutoPlatform_Obstacle_C
+[2020.08.21-09.18.15:511][348]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2020.08.21-09.18.15:513][348]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2020.08.21-09.18.19:331][577]LogEditorViewport: Clicking on Actor (LMB): RedBlock_Obstacle_C (RedBlock_Obstacle3)
+[2020.08.21-09.18.22:094][739]Cmd: SELECT NONE
+[2020.08.21-09.18.29:732][197]LogEditorViewport: Clicking on Actor (LMB): BluePlatform_C (BluePlatform4)
+[2020.08.21-09.18.32:363][331]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/CustomAssets/Animation/BluePlatforms_PuzzleLevel.BluePlatforms_PuzzleLevel
+[2020.08.21-09.18.34:338][376]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2020.08.21-09.18.34:380][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMaps/PuzzleLevel" FILE="D:/Work/Unreal Project/Licenta/Content/GameMaps/PuzzleLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.21-09.18.34:409][376]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2020.08.21-09.18.34:664][376]LogSavePackage: Moving 'D:/Work/Unreal Project/Licenta/Saved/PuzzleLevel902BB9D244BD5A0D9C29B99CAC774DAF.tmp' to 'D:/Work/Unreal Project/Licenta/Content/GameMaps/PuzzleLevel.umap'
+[2020.08.21-09.18.34:701][376]LogFileHelpers: Saving map 'PuzzleLevel' took 0.321
+[2020.08.21-09.18.34:725][376]AssetCheck: New page: Asset Save: PuzzleLevel
+[2020.08.21-09.18.34:725][376]LogContentValidation: Display: Validating World /Game/GameMaps/PuzzleLevel.PuzzleLevel
+[2020.08.21-09.19.21:845][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomAssets/Animation/BluePlatforms_PuzzleLevel" FILE="D:/Work/Unreal Project/Licenta/Content/CustomAssets/Animation/BluePlatforms_PuzzleLevel.uasset" SILENT=true
+[2020.08.21-09.19.21:873][912]LogSavePackage: Moving 'D:/Work/Unreal Project/Licenta/Saved/BluePlatforms_PuzzleLevel480C117B4225346115A82EBC2B12D2A4.tmp' to 'D:/Work/Unreal Project/Licenta/Content/CustomAssets/Animation/BluePlatforms_PuzzleLevel.uasset'
+[2020.08.21-09.19.21:901][912]AssetCheck: New page: Asset Save: BluePlatforms_PuzzleLevel
+[2020.08.21-09.19.21:901][912]LogContentValidation: Display: Validating LevelSequence /Game/CustomAssets/Animation/BluePlatforms_PuzzleLevel.BluePlatforms_PuzzleLevel
+[2020.08.21-09.19.41:713][579]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomAssets/Animation/BluePlatforms_PuzzleLevel" FILE="D:/Work/Unreal Project/Licenta/Content/CustomAssets/Animation/BluePlatforms_PuzzleLevel.uasset" SILENT=true
+[2020.08.21-09.19.41:740][579]LogSavePackage: Moving 'D:/Work/Unreal Project/Licenta/Saved/BluePlatforms_PuzzleLevel6563E80042FFEFE592FE4497D92B73A1.tmp' to 'D:/Work/Unreal Project/Licenta/Content/CustomAssets/Animation/BluePlatforms_PuzzleLevel.uasset'
+[2020.08.21-09.19.41:770][579]AssetCheck: New page: Asset Save: BluePlatforms_PuzzleLevel
+[2020.08.21-09.19.41:770][579]LogContentValidation: Display: Validating LevelSequence /Game/CustomAssets/Animation/BluePlatforms_PuzzleLevel.BluePlatforms_PuzzleLevel
+[2020.08.21-09.20.01:848][234]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomAssets/Animation/BluePlatforms_PuzzleLevel" FILE="D:/Work/Unreal Project/Licenta/Content/CustomAssets/Animation/BluePlatforms_PuzzleLevel.uasset" SILENT=true
+[2020.08.21-09.20.01:876][234]LogSavePackage: Moving 'D:/Work/Unreal Project/Licenta/Saved/BluePlatforms_PuzzleLevelC16FD94B4DF292137FC625A166B4830A.tmp' to 'D:/Work/Unreal Project/Licenta/Content/CustomAssets/Animation/BluePlatforms_PuzzleLevel.uasset'
+[2020.08.21-09.20.01:902][234]AssetCheck: New page: Asset Save: BluePlatforms_PuzzleLevel
+[2020.08.21-09.20.01:903][234]LogContentValidation: Display: Validating LevelSequence /Game/CustomAssets/Animation/BluePlatforms_PuzzleLevel.BluePlatforms_PuzzleLevel
+[2020.08.21-09.20.17:254][765]Cmd: TRANSACTION UNDO
+[2020.08.21-09.20.17:255][765]LogEditorTransaction: Undo Move Actors
+[2020.08.21-09.20.19:408][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomAssets/Animation/BluePlatforms_PuzzleLevel" FILE="D:/Work/Unreal Project/Licenta/Content/CustomAssets/Animation/BluePlatforms_PuzzleLevel.uasset" SILENT=true
+[2020.08.21-09.20.19:436][807]LogSavePackage: Moving 'D:/Work/Unreal Project/Licenta/Saved/BluePlatforms_PuzzleLevelC7C31D47462F914203E2E9ACE88180F1.tmp' to 'D:/Work/Unreal Project/Licenta/Content/CustomAssets/Animation/BluePlatforms_PuzzleLevel.uasset'
+[2020.08.21-09.20.19:502][807]AssetCheck: New page: Asset Save: BluePlatforms_PuzzleLevel
+[2020.08.21-09.20.19:502][807]LogContentValidation: Display: Validating LevelSequence /Game/CustomAssets/Animation/BluePlatforms_PuzzleLevel.BluePlatforms_PuzzleLevel
+[2020.08.21-09.21.16:979][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomAssets/Animation/BluePlatforms_PuzzleLevel" FILE="D:/Work/Unreal Project/Licenta/Content/CustomAssets/Animation/BluePlatforms_PuzzleLevel.uasset" SILENT=true
+[2020.08.21-09.21.17:006][680]LogSavePackage: Moving 'D:/Work/Unreal Project/Licenta/Saved/BluePlatforms_PuzzleLevel0E26D4594EB912A1ABA93C98A09C11A7.tmp' to 'D:/Work/Unreal Project/Licenta/Content/CustomAssets/Animation/BluePlatforms_PuzzleLevel.uasset'
+[2020.08.21-09.21.17:035][680]AssetCheck: New page: Asset Save: BluePlatforms_PuzzleLevel
+[2020.08.21-09.21.17:035][680]LogContentValidation: Display: Validating LevelSequence /Game/CustomAssets/Animation/BluePlatforms_PuzzleLevel.BluePlatforms_PuzzleLevel
+[2020.08.21-09.21.20:200][787]LogSlate: Window 'Sequencer' being destroyed
+[2020.08.21-09.21.20:202][787]LogSlate: Window 'Sequencer' being destroyed
+[2020.08.21-09.21.35:526][540]Cmd: DELETE
+[2020.08.21-09.21.35:526][540]Cmd: ACTOR DELETE
+[2020.08.21-09.21.35:545][540]LogEditorActor: Deleted Actor: PlayerStart
+[2020.08.21-09.21.35:576][540]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2020.08.21-09.21.35:577][540]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2020.08.21-09.21.36:994][613]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.21-09.21.37:013][613]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.21-09.21.37:013][613]PIE: New page: PIE session: PuzzleLevel (Aug 21, 2020, 3:21:37 PM)
+[2020.08.21-09.21.37:013][613]LogPlayLevel: Creating play world package: /Game/GameMaps/UEDPIE_0_PuzzleLevel
+[2020.08.21-09.21.37:059][613]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045401s)
+[2020.08.21-09.21.37:060][613]LogAIModule: Creating AISystem for world PuzzleLevel
+[2020.08.21-09.21.37:060][613]LogPlayLevel: PIE: World Init took: (0.001202s)
+[2020.08.21-09.21.37:060][613]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameMaps/PuzzleLevel.PuzzleLevel to /Game/GameMaps/UEDPIE_0_PuzzleLevel.PuzzleLevel (0.047121s)
+[2020.08.21-09.21.37:086][613]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2020.08.21-09.21.37:087][613]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.21-09.21.37:087][613]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.21-09.21.37:087][613]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.21-09.21.37:087][613]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.21-09.21.37:087][613]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.21-09.21.37:087][613]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.21-09.21.37:087][613]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.21-09.21.37:087][613]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.21-09.21.37:087][613]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.21-09.21.37:087][613]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.21-09.21.37:095][613]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.08.21-09.21.37:095][613]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.08.21-09.21.37:095][613]LogAudioMixer: Display: Is Default: Yes
+[2020.08.21-09.21.37:095][613]LogAudioMixer: Display: Sample Rate: 48000
+[2020.08.21-09.21.37:095][613]LogAudioMixer: Display: Channel Count Used: 2
+[2020.08.21-09.21.37:095][613]LogAudioMixer: Display: Device Channel Count: 2
+[2020.08.21-09.21.37:095][613]LogAudioMixer: Display: Channel Order:
+[2020.08.21-09.21.37:095][613]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.21-09.21.37:095][613]LogAudioMixer: Display: 1: FrontRight
+[2020.08.21-09.21.37:130][613]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.08.21-09.21.37:132][613]LogInit: FAudioDevice initialized.
+[2020.08.21-09.21.37:146][613]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.21-09.21.37:170][613]LogWorld: Bringing World /Game/GameMaps/UEDPIE_0_PuzzleLevel.PuzzleLevel up for play (max tick rate 60) at 2020.08.21-12.21.37
+[2020.08.21-09.21.37:171][613]LogWorld: Bringing up level for play took: 0.024383
+[2020.08.21-09.21.37:171][613]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2020.08.21-09.21.37:178][613]PIE: Play in editor start time for /Game/GameMaps/UEDPIE_0_PuzzleLevel -0.249
+[2020.08.21-09.22.02:295][108]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.21-09.22.02:295][108]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.21-09.22.02:295][108]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.21-09.22.02:295][108]LogWorld: BeginTearingDown for /Game/GameMaps/UEDPIE_0_PuzzleLevel
+[2020.08.21-09.22.02:295][108]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.21-09.22.02:296][108]LogWorld: UWorld::CleanupWorld for PuzzleLevel, bSessionEnded=true, bCleanupResources=true
+[2020.08.21-09.22.02:300][108]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.21-09.22.02:307][108]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.21-09.22.02:313][108]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.21-09.22.02:339][108]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.21-09.22.02:346][108]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.21-09.22.02:354][108]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2020.08.21-09.22.02:401][110]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.08.21-09.22.08:843][481]LogEditorViewport: Clicking on Actor (LMB): BluePlatform_C (BluePlatform4)
+[2020.08.21-09.22.13:729][755]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/CustomAssets/Animation/BluePlatforms_PuzzleLevel.BluePlatforms_PuzzleLevel
+[2020.08.21-09.22.15:318][806]LogEditorViewport: Clicking on Actor (LMB): BluePlatform_C (BluePlatform2)
+[2020.08.21-09.22.59:312][262]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomAssets/Animation/BluePlatforms_PuzzleLevel" FILE="D:/Work/Unreal Project/Licenta/Content/CustomAssets/Animation/BluePlatforms_PuzzleLevel.uasset" SILENT=true
+[2020.08.21-09.22.59:351][262]LogSavePackage: Moving 'D:/Work/Unreal Project/Licenta/Saved/BluePlatforms_PuzzleLevelBCBAE0E24B13BED72235F3922B5EE52C.tmp' to 'D:/Work/Unreal Project/Licenta/Content/CustomAssets/Animation/BluePlatforms_PuzzleLevel.uasset'
+[2020.08.21-09.22.59:379][262]AssetCheck: New page: Asset Save: BluePlatforms_PuzzleLevel
+[2020.08.21-09.22.59:379][262]LogContentValidation: Display: Validating LevelSequence /Game/CustomAssets/Animation/BluePlatforms_PuzzleLevel.BluePlatforms_PuzzleLevel
+[2020.08.21-09.23.01:234][324]LogSlate: Window 'Sequencer' being destroyed
+[2020.08.21-09.23.01:235][324]LogSlate: Window 'Sequencer' being destroyed
+[2020.08.21-09.23.03:514][441]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.21-09.23.03:533][441]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.21-09.23.03:533][441]PIE: New page: PIE session: PuzzleLevel (Aug 21, 2020, 3:23:03 PM)
+[2020.08.21-09.23.03:533][441]LogPlayLevel: Creating play world package: /Game/GameMaps/UEDPIE_0_PuzzleLevel
+[2020.08.21-09.23.03:578][441]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044999s)
+[2020.08.21-09.23.03:579][441]LogAIModule: Creating AISystem for world PuzzleLevel
+[2020.08.21-09.23.03:579][441]LogPlayLevel: PIE: World Init took: (0.001029s)
+[2020.08.21-09.23.03:579][441]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameMaps/PuzzleLevel.PuzzleLevel to /Game/GameMaps/UEDPIE_0_PuzzleLevel.PuzzleLevel (0.046295s)
+[2020.08.21-09.23.03:610][441]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2020.08.21-09.23.03:613][441]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.21-09.23.03:613][441]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.21-09.23.03:613][441]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.21-09.23.03:613][441]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.21-09.23.03:613][441]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.21-09.23.03:613][441]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.21-09.23.03:613][441]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.21-09.23.03:613][441]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.21-09.23.03:613][441]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.21-09.23.03:613][441]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.21-09.23.03:619][441]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.08.21-09.23.03:620][441]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.08.21-09.23.03:620][441]LogAudioMixer: Display: Is Default: Yes
+[2020.08.21-09.23.03:620][441]LogAudioMixer: Display: Sample Rate: 48000
+[2020.08.21-09.23.03:620][441]LogAudioMixer: Display: Channel Count Used: 2
+[2020.08.21-09.23.03:620][441]LogAudioMixer: Display: Device Channel Count: 2
+[2020.08.21-09.23.03:620][441]LogAudioMixer: Display: Channel Order:
+[2020.08.21-09.23.03:620][441]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.21-09.23.03:620][441]LogAudioMixer: Display: 1: FrontRight
+[2020.08.21-09.23.03:653][441]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.08.21-09.23.03:655][441]LogInit: FAudioDevice initialized.
+[2020.08.21-09.23.03:663][441]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.21-09.23.03:688][441]LogWorld: Bringing World /Game/GameMaps/UEDPIE_0_PuzzleLevel.PuzzleLevel up for play (max tick rate 60) at 2020.08.21-12.23.03
+[2020.08.21-09.23.03:689][441]LogWorld: Bringing up level for play took: 0.025007
+[2020.08.21-09.23.03:689][441]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2020.08.21-09.23.03:696][441]PIE: Play in editor start time for /Game/GameMaps/UEDPIE_0_PuzzleLevel 0.269
+[2020.08.21-09.23.08:230][704]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.21-09.23.08:230][704]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.21-09.23.08:231][704]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.21-09.23.08:231][704]LogWorld: BeginTearingDown for /Game/GameMaps/UEDPIE_0_PuzzleLevel
+[2020.08.21-09.23.08:231][704]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.21-09.23.08:232][704]LogWorld: UWorld::CleanupWorld for PuzzleLevel, bSessionEnded=true, bCleanupResources=true
+[2020.08.21-09.23.08:236][704]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.21-09.23.08:245][704]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.21-09.23.08:249][704]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.21-09.23.08:277][704]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.21-09.23.08:282][704]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.21-09.23.08:287][704]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2020.08.21-09.23.08:337][706]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.08.21-09.23.10:522][837]LogEditorViewport: Clicking on Actor (LMB): BluePlatform_C (BluePlatform4)
+[2020.08.21-09.23.11:630][887]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/CustomAssets/Animation/BluePlatforms_PuzzleLevel.BluePlatforms_PuzzleLevel
+[2020.08.21-09.24.18:792][186]Cmd: TRANSACTION UNDO
+[2020.08.21-09.24.18:792][186]LogEditorTransaction: Undo Move Actors
+[2020.08.21-09.24.19:131][192]Cmd: TRANSACTION UNDO
+[2020.08.21-09.24.19:131][192]LogEditorTransaction: Undo Move Actors
+[2020.08.21-09.25.02:628][485]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomAssets/Animation/BluePlatforms_PuzzleLevel" FILE="D:/Work/Unreal Project/Licenta/Content/CustomAssets/Animation/BluePlatforms_PuzzleLevel.uasset" SILENT=true
+[2020.08.21-09.25.02:655][485]LogSavePackage: Moving 'D:/Work/Unreal Project/Licenta/Saved/BluePlatforms_PuzzleLevelEC469D1C4345A24E2ADF03B037009413.tmp' to 'D:/Work/Unreal Project/Licenta/Content/CustomAssets/Animation/BluePlatforms_PuzzleLevel.uasset'
+[2020.08.21-09.25.02:682][485]AssetCheck: New page: Asset Save: BluePlatforms_PuzzleLevel
+[2020.08.21-09.25.02:682][485]LogContentValidation: Display: Validating LevelSequence /Game/CustomAssets/Animation/BluePlatforms_PuzzleLevel.BluePlatforms_PuzzleLevel
+[2020.08.21-09.25.17:262][953]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomAssets/Animation/BluePlatforms_PuzzleLevel" FILE="D:/Work/Unreal Project/Licenta/Content/CustomAssets/Animation/BluePlatforms_PuzzleLevel.uasset" SILENT=true
+[2020.08.21-09.25.17:289][953]LogSavePackage: Moving 'D:/Work/Unreal Project/Licenta/Saved/BluePlatforms_PuzzleLevel62F95C2B4440CCFEDE73299A82542F05.tmp' to 'D:/Work/Unreal Project/Licenta/Content/CustomAssets/Animation/BluePlatforms_PuzzleLevel.uasset'
+[2020.08.21-09.25.17:316][953]AssetCheck: New page: Asset Save: BluePlatforms_PuzzleLevel
+[2020.08.21-09.25.17:316][953]LogContentValidation: Display: Validating LevelSequence /Game/CustomAssets/Animation/BluePlatforms_PuzzleLevel.BluePlatforms_PuzzleLevel
+[2020.08.21-09.25.19:990][ 46]LogSlate: Window 'Sequencer' being destroyed
+[2020.08.21-09.25.19:993][ 46]LogSlate: Window 'Sequencer' being destroyed
+[2020.08.21-09.25.20:865][ 86]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.21-09.25.20:884][ 86]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.21-09.25.20:884][ 86]PIE: New page: PIE session: PuzzleLevel (Aug 21, 2020, 3:25:20 PM)
+[2020.08.21-09.25.20:884][ 86]LogPlayLevel: Creating play world package: /Game/GameMaps/UEDPIE_0_PuzzleLevel
+[2020.08.21-09.25.20:931][ 86]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046806s)
+[2020.08.21-09.25.20:932][ 86]LogAIModule: Creating AISystem for world PuzzleLevel
+[2020.08.21-09.25.20:932][ 86]LogPlayLevel: PIE: World Init took: (0.001150s)
+[2020.08.21-09.25.20:932][ 86]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameMaps/PuzzleLevel.PuzzleLevel to /Game/GameMaps/UEDPIE_0_PuzzleLevel.PuzzleLevel (0.048236s)
+[2020.08.21-09.25.20:960][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2020.08.21-09.25.20:962][ 86]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.21-09.25.20:962][ 86]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.21-09.25.20:962][ 86]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.21-09.25.20:962][ 86]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.21-09.25.20:962][ 86]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.21-09.25.20:962][ 86]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.21-09.25.20:962][ 86]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.21-09.25.20:962][ 86]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.21-09.25.20:962][ 86]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.21-09.25.20:962][ 86]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.21-09.25.20:969][ 86]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.08.21-09.25.20:969][ 86]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.08.21-09.25.20:969][ 86]LogAudioMixer: Display: Is Default: Yes
+[2020.08.21-09.25.20:969][ 86]LogAudioMixer: Display: Sample Rate: 48000
+[2020.08.21-09.25.20:969][ 86]LogAudioMixer: Display: Channel Count Used: 2
+[2020.08.21-09.25.20:969][ 86]LogAudioMixer: Display: Device Channel Count: 2
+[2020.08.21-09.25.20:969][ 86]LogAudioMixer: Display: Channel Order:
+[2020.08.21-09.25.20:969][ 86]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.21-09.25.20:969][ 86]LogAudioMixer: Display: 1: FrontRight
+[2020.08.21-09.25.21:004][ 86]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.08.21-09.25.21:007][ 86]LogInit: FAudioDevice initialized.
+[2020.08.21-09.25.21:016][ 86]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.21-09.25.21:041][ 86]LogWorld: Bringing World /Game/GameMaps/UEDPIE_0_PuzzleLevel.PuzzleLevel up for play (max tick rate 60) at 2020.08.21-12.25.21
+[2020.08.21-09.25.21:042][ 86]LogWorld: Bringing up level for play took: 0.025641
+[2020.08.21-09.25.21:043][ 86]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2020.08.21-09.25.21:048][ 86]PIE: Play in editor start time for /Game/GameMaps/UEDPIE_0_PuzzleLevel -0.378
+[2020.08.21-09.25.37:348][ 52]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.21-09.25.37:351][ 52]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.08.21-09.25.37:371][ 52]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.08.21-09.25.37:372][ 52]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.21-09.25.37:372][ 52]LogWorld: BeginTearingDown for /Game/GameMaps/UEDPIE_0_PuzzleLevel
+[2020.08.21-09.25.37:372][ 52]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.21-09.25.37:372][ 52]LogWorld: UWorld::CleanupWorld for PuzzleLevel, bSessionEnded=true, bCleanupResources=true
+[2020.08.21-09.25.37:378][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.21-09.25.37:384][ 52]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.21-09.25.37:388][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.21-09.25.37:415][ 52]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.21-09.25.37:421][ 52]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.21-09.25.37:428][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2020.08.21-09.25.37:450][ 53]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.08.21-09.25.40:110][212]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ModularBuildingKit12-FixedAll_Ceiling_Floor378)
+[2020.08.21-09.25.41:773][302]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ModularBuildingKit12-FixedAll_Ceiling_Floor405)
+[2020.08.21-09.25.41:983][312]Cmd: EDIT COPY
+[2020.08.21-09.25.42:173][323]Cmd: EDIT PASTE
+[2020.08.21-09.25.48:893][717]Cmd: EDIT COPY
+[2020.08.21-09.25.49:060][727]Cmd: EDIT PASTE
+[2020.08.21-09.25.53:218][971]Cmd: SELECT NONE
+[2020.08.21-09.25.58:867][309]LogEditorViewport: Clicking on Actor (LMB): AutoPlatform_Obstacle_C (AutoPlatform_Obstacle9)
+[2020.08.21-09.26.10:487][995]Cmd: SELECT NONE
+[2020.08.21-09.26.23:395][767]LogEditorViewport: Clicking on Actor (LMB): BluePlatform_C (BluePlatform4)
+[2020.08.21-09.26.24:349][821]Cmd: EDIT COPY
+[2020.08.21-09.26.24:516][831]Cmd: EDIT PASTE
+[2020.08.21-09.26.30:201][167]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ModularBuildingKit13_WallTopFiller26)
+[2020.08.21-09.26.31:444][238]LogEditorViewport: Clicking on Actor (LMB): BluePlatform_C (BluePlatform4)
+[2020.08.21-09.26.32:259][285]Cmd: SELECT NONE
+[2020.08.21-09.26.33:792][377]LogEditorViewport: Clicking on Actor (LMB): BluePlatform_C (BluePlatform4)
+[2020.08.21-09.26.35:055][451]LogEditorViewport: Clicking on Actor (LMB): BluePlatform_C (BluePlatform5)
+[2020.08.21-09.26.42:664][902]Cmd: SELECT NONE
+[2020.08.21-09.26.43:231][936]LogEditorViewport: Clicking on Actor (LMB): BluePlatform_C (BluePlatform4)
+[2020.08.21-09.26.44:211][980]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/CustomAssets/Animation/BluePlatforms_PuzzleLevel.BluePlatforms_PuzzleLevel
+[2020.08.21-09.26.51:857][242]LogEditorViewport: Clicking on Actor (LMB): BluePlatform_C (BluePlatform5)
+[2020.08.21-09.27.17:046][ 57]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomAssets/Animation/BluePlatforms_PuzzleLevel" FILE="D:/Work/Unreal Project/Licenta/Content/CustomAssets/Animation/BluePlatforms_PuzzleLevel.uasset" SILENT=true
+[2020.08.21-09.27.17:078][ 57]LogSavePackage: Moving 'D:/Work/Unreal Project/Licenta/Saved/BluePlatforms_PuzzleLevelEA54EEFC4B496C6A3F5D7DA9EB3A2561.tmp' to 'D:/Work/Unreal Project/Licenta/Content/CustomAssets/Animation/BluePlatforms_PuzzleLevel.uasset'
+[2020.08.21-09.27.17:103][ 57]AssetCheck: New page: Asset Save: BluePlatforms_PuzzleLevel
+[2020.08.21-09.27.17:103][ 57]LogContentValidation: Display: Validating LevelSequence /Game/CustomAssets/Animation/BluePlatforms_PuzzleLevel.BluePlatforms_PuzzleLevel
+[2020.08.21-09.27.19:806][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.08.21-09.27.19:846][122]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMaps/PuzzleLevel" FILE="D:/Work/Unreal Project/Licenta/Content/GameMaps/PuzzleLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.21-09.27.19:874][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.08.21-09.27.20:116][122]LogSavePackage: Moving 'D:/Work/Unreal Project/Licenta/Saved/PuzzleLevel8F2DB98846A0CFE443E2F79CFE4232D4.tmp' to 'D:/Work/Unreal Project/Licenta/Content/GameMaps/PuzzleLevel.umap'
+[2020.08.21-09.27.20:153][122]LogFileHelpers: Saving map 'PuzzleLevel' took 0.307
+[2020.08.21-09.27.20:178][122]AssetCheck: New page: Asset Save: PuzzleLevel
+[2020.08.21-09.27.20:178][122]LogContentValidation: Display: Validating World /Game/GameMaps/PuzzleLevel.PuzzleLevel
+[2020.08.21-09.28.44:229][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomAssets/Animation/BluePlatforms_PuzzleLevel" FILE="D:/Work/Unreal Project/Licenta/Content/CustomAssets/Animation/BluePlatforms_PuzzleLevel.uasset" SILENT=true
+[2020.08.21-09.28.44:267][863]LogSavePackage: Moving 'D:/Work/Unreal Project/Licenta/Saved/BluePlatforms_PuzzleLevel5AB5A78D47FC0C110347C7B157359051.tmp' to 'D:/Work/Unreal Project/Licenta/Content/CustomAssets/Animation/BluePlatforms_PuzzleLevel.uasset'
+[2020.08.21-09.28.44:295][863]AssetCheck: New page: Asset Save: BluePlatforms_PuzzleLevel
+[2020.08.21-09.28.44:295][863]LogContentValidation: Display: Validating LevelSequence /Game/CustomAssets/Animation/BluePlatforms_PuzzleLevel.BluePlatforms_PuzzleLevel
+[2020.08.21-09.28.45:265][896]LogSlate: Window 'Sequencer' being destroyed
+[2020.08.21-09.28.45:267][896]LogSlate: Window 'Sequencer' being destroyed
+[2020.08.21-09.28.46:835][989]Cmd: SELECT NONE
+[2020.08.21-09.28.48:181][ 63]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.21-09.28.48:198][ 63]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.21-09.28.48:198][ 63]PIE: New page: PIE session: PuzzleLevel (Aug 21, 2020, 3:28:48 PM)
+[2020.08.21-09.28.48:198][ 63]LogPlayLevel: Creating play world package: /Game/GameMaps/UEDPIE_0_PuzzleLevel
+[2020.08.21-09.28.48:242][ 63]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044470s)
+[2020.08.21-09.28.48:243][ 63]LogAIModule: Creating AISystem for world PuzzleLevel
+[2020.08.21-09.28.48:243][ 63]LogPlayLevel: PIE: World Init took: (0.001082s)
+[2020.08.21-09.28.48:244][ 63]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameMaps/PuzzleLevel.PuzzleLevel to /Game/GameMaps/UEDPIE_0_PuzzleLevel.PuzzleLevel (0.045858s)
+[2020.08.21-09.28.48:272][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2020.08.21-09.28.48:275][ 63]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.21-09.28.48:275][ 63]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.21-09.28.48:275][ 63]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.21-09.28.48:275][ 63]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.21-09.28.48:275][ 63]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.21-09.28.48:275][ 63]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.21-09.28.48:275][ 63]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.21-09.28.48:275][ 63]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.21-09.28.48:276][ 63]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.21-09.28.48:276][ 63]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.21-09.28.48:281][ 63]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.08.21-09.28.48:282][ 63]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.08.21-09.28.48:282][ 63]LogAudioMixer: Display: Is Default: Yes
+[2020.08.21-09.28.48:282][ 63]LogAudioMixer: Display: Sample Rate: 48000
+[2020.08.21-09.28.48:282][ 63]LogAudioMixer: Display: Channel Count Used: 2
+[2020.08.21-09.28.48:282][ 63]LogAudioMixer: Display: Device Channel Count: 2
+[2020.08.21-09.28.48:282][ 63]LogAudioMixer: Display: Channel Order:
+[2020.08.21-09.28.48:282][ 63]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.21-09.28.48:282][ 63]LogAudioMixer: Display: 1: FrontRight
+[2020.08.21-09.28.48:318][ 63]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.08.21-09.28.48:320][ 63]LogInit: FAudioDevice initialized.
+[2020.08.21-09.28.48:331][ 63]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.21-09.28.48:355][ 63]LogWorld: Bringing World /Game/GameMaps/UEDPIE_0_PuzzleLevel.PuzzleLevel up for play (max tick rate 60) at 2020.08.21-12.28.48
+[2020.08.21-09.28.48:357][ 63]LogWorld: Bringing up level for play took: 0.025392
+[2020.08.21-09.28.48:357][ 63]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2020.08.21-09.28.48:363][ 63]PIE: Play in editor start time for /Game/GameMaps/UEDPIE_0_PuzzleLevel 0.937
+[2020.08.21-09.29.02:283][894]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.21-09.29.02:292][894]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.08.21-09.29.02:312][894]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.08.21-09.29.02:312][894]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.21-09.29.02:312][894]LogWorld: BeginTearingDown for /Game/GameMaps/UEDPIE_0_PuzzleLevel
+[2020.08.21-09.29.02:312][894]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.21-09.29.02:313][894]LogWorld: UWorld::CleanupWorld for PuzzleLevel, bSessionEnded=true, bCleanupResources=true
+[2020.08.21-09.29.02:316][894]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.21-09.29.02:329][894]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.21-09.29.02:333][894]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.21-09.29.02:361][894]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.21-09.29.02:367][894]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.21-09.29.02:372][894]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.08.21-09.29.02:397][895]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.08.21-09.29.06:929][138]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/CustomAssets/Animation/BluePlatforms_PuzzleLevel.BluePlatforms_PuzzleLevel
+[2020.08.21-09.29.38:327][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomAssets/Animation/BluePlatforms_PuzzleLevel" FILE="D:/Work/Unreal Project/Licenta/Content/CustomAssets/Animation/BluePlatforms_PuzzleLevel.uasset" SILENT=true
+[2020.08.21-09.29.38:354][114]LogSavePackage: Moving 'D:/Work/Unreal Project/Licenta/Saved/BluePlatforms_PuzzleLevel88E5D75A4B4F759B42D6CE9BC3BD676B.tmp' to 'D:/Work/Unreal Project/Licenta/Content/CustomAssets/Animation/BluePlatforms_PuzzleLevel.uasset'
+[2020.08.21-09.29.38:381][114]AssetCheck: New page: Asset Save: BluePlatforms_PuzzleLevel
+[2020.08.21-09.29.38:381][114]LogContentValidation: Display: Validating LevelSequence /Game/CustomAssets/Animation/BluePlatforms_PuzzleLevel.BluePlatforms_PuzzleLevel
+[2020.08.21-09.29.39:645][155]LogSlate: Window 'Sequencer' being destroyed
+[2020.08.21-09.29.39:647][155]LogSlate: Window 'Sequencer' being destroyed
+[2020.08.21-09.29.40:355][189]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.21-09.29.40:376][189]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.21-09.29.40:376][189]PIE: New page: PIE session: PuzzleLevel (Aug 21, 2020, 3:29:40 PM)
+[2020.08.21-09.29.40:376][189]LogPlayLevel: Creating play world package: /Game/GameMaps/UEDPIE_0_PuzzleLevel
+[2020.08.21-09.29.40:424][189]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048050s)
+[2020.08.21-09.29.40:425][189]LogAIModule: Creating AISystem for world PuzzleLevel
+[2020.08.21-09.29.40:425][189]LogPlayLevel: PIE: World Init took: (0.001312s)
+[2020.08.21-09.29.40:426][189]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameMaps/PuzzleLevel.PuzzleLevel to /Game/GameMaps/UEDPIE_0_PuzzleLevel.PuzzleLevel (0.049690s)
+[2020.08.21-09.29.40:453][189]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2020.08.21-09.29.40:455][189]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.21-09.29.40:455][189]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.21-09.29.40:455][189]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.21-09.29.40:455][189]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.21-09.29.40:455][189]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.21-09.29.40:455][189]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.21-09.29.40:455][189]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.21-09.29.40:455][189]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.21-09.29.40:456][189]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.21-09.29.40:456][189]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.21-09.29.40:462][189]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.08.21-09.29.40:462][189]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.08.21-09.29.40:462][189]LogAudioMixer: Display: Is Default: Yes
+[2020.08.21-09.29.40:462][189]LogAudioMixer: Display: Sample Rate: 48000
+[2020.08.21-09.29.40:462][189]LogAudioMixer: Display: Channel Count Used: 2
+[2020.08.21-09.29.40:462][189]LogAudioMixer: Display: Device Channel Count: 2
+[2020.08.21-09.29.40:462][189]LogAudioMixer: Display: Channel Order:
+[2020.08.21-09.29.40:463][189]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.21-09.29.40:463][189]LogAudioMixer: Display: 1: FrontRight
+[2020.08.21-09.29.40:496][189]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.08.21-09.29.40:499][189]LogInit: FAudioDevice initialized.
+[2020.08.21-09.29.40:509][189]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.21-09.29.40:533][189]LogWorld: Bringing World /Game/GameMaps/UEDPIE_0_PuzzleLevel.PuzzleLevel up for play (max tick rate 60) at 2020.08.21-12.29.40
+[2020.08.21-09.29.40:533][189]LogWorld: Bringing up level for play took: 0.023891
+[2020.08.21-09.29.40:533][189]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2020.08.21-09.29.40:538][189]PIE: Play in editor start time for /Game/GameMaps/UEDPIE_0_PuzzleLevel 1.112
+[2020.08.21-09.29.58:171][235]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.21-09.29.58:171][235]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.21-09.29.58:172][235]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.21-09.29.58:172][235]LogWorld: BeginTearingDown for /Game/GameMaps/UEDPIE_0_PuzzleLevel
+[2020.08.21-09.29.58:172][235]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.21-09.29.58:172][235]LogWorld: UWorld::CleanupWorld for PuzzleLevel, bSessionEnded=true, bCleanupResources=true
+[2020.08.21-09.29.58:178][235]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.21-09.29.58:187][235]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.21-09.29.58:192][235]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.21-09.29.58:221][235]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.21-09.29.58:227][235]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.21-09.29.58:233][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.08.21-09.29.58:284][237]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.08.21-09.29.59:828][312]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/CustomAssets/Animation/BluePlatforms_PuzzleLevel.BluePlatforms_PuzzleLevel
+[2020.08.21-09.30.02:853][413]LogEditorViewport: Clicking on Actor (LMB): BluePlatform_C (BluePlatform5)
+[2020.08.21-09.30.10:728][663]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomAssets/Animation/BluePlatforms_PuzzleLevel" FILE="D:/Work/Unreal Project/Licenta/Content/CustomAssets/Animation/BluePlatforms_PuzzleLevel.uasset" SILENT=true
+[2020.08.21-09.30.10:755][663]LogSavePackage: Moving 'D:/Work/Unreal Project/Licenta/Saved/BluePlatforms_PuzzleLevelBD4F07ED46E2894390D7CBA8851B781E.tmp' to 'D:/Work/Unreal Project/Licenta/Content/CustomAssets/Animation/BluePlatforms_PuzzleLevel.uasset'
+[2020.08.21-09.30.10:786][663]AssetCheck: New page: Asset Save: BluePlatforms_PuzzleLevel
+[2020.08.21-09.30.10:786][663]LogContentValidation: Display: Validating LevelSequence /Game/CustomAssets/Animation/BluePlatforms_PuzzleLevel.BluePlatforms_PuzzleLevel
+[2020.08.21-09.30.16:374][858]Cmd: TRANSACTION UNDO
+[2020.08.21-09.30.16:375][858]LogEditorTransaction: Undo Delete Keys
+[2020.08.21-09.31.01:077][233]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomAssets/Animation/BluePlatforms_PuzzleLevel" FILE="D:/Work/Unreal Project/Licenta/Content/CustomAssets/Animation/BluePlatforms_PuzzleLevel.uasset" SILENT=true
+[2020.08.21-09.31.01:108][233]LogSavePackage: Moving 'D:/Work/Unreal Project/Licenta/Saved/BluePlatforms_PuzzleLevel1D675F3A48875E930C2B18850135B39E.tmp' to 'D:/Work/Unreal Project/Licenta/Content/CustomAssets/Animation/BluePlatforms_PuzzleLevel.uasset'
+[2020.08.21-09.31.01:136][233]AssetCheck: New page: Asset Save: BluePlatforms_PuzzleLevel
+[2020.08.21-09.31.01:136][233]LogContentValidation: Display: Validating LevelSequence /Game/CustomAssets/Animation/BluePlatforms_PuzzleLevel.BluePlatforms_PuzzleLevel
+[2020.08.21-09.31.05:828][343]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomAssets/Animation/BluePlatforms_PuzzleLevel" FILE="D:/Work/Unreal Project/Licenta/Content/CustomAssets/Animation/BluePlatforms_PuzzleLevel.uasset" SILENT=true
+[2020.08.21-09.31.05:857][343]LogSavePackage: Moving 'D:/Work/Unreal Project/Licenta/Saved/BluePlatforms_PuzzleLevelB09464DB4B73F849B1B24D85A101B7B1.tmp' to 'D:/Work/Unreal Project/Licenta/Content/CustomAssets/Animation/BluePlatforms_PuzzleLevel.uasset'
+[2020.08.21-09.31.05:882][343]AssetCheck: New page: Asset Save: BluePlatforms_PuzzleLevel
+[2020.08.21-09.31.05:882][343]LogContentValidation: Display: Validating LevelSequence /Game/CustomAssets/Animation/BluePlatforms_PuzzleLevel.BluePlatforms_PuzzleLevel
+[2020.08.21-09.31.07:569][401]LogSlate: Window 'Sequencer' being destroyed
+[2020.08.21-09.31.07:570][401]LogSlate: Window 'Sequencer' being destroyed
+[2020.08.21-09.31.08:234][429]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.21-09.31.08:251][429]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.21-09.31.08:252][429]PIE: New page: PIE session: PuzzleLevel (Aug 21, 2020, 3:31:08 PM)
+[2020.08.21-09.31.08:252][429]LogPlayLevel: Creating play world package: /Game/GameMaps/UEDPIE_0_PuzzleLevel
+[2020.08.21-09.31.08:299][429]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047134s)
+[2020.08.21-09.31.08:300][429]LogAIModule: Creating AISystem for world PuzzleLevel
+[2020.08.21-09.31.08:300][429]LogPlayLevel: PIE: World Init took: (0.001032s)
+[2020.08.21-09.31.08:300][429]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameMaps/PuzzleLevel.PuzzleLevel to /Game/GameMaps/UEDPIE_0_PuzzleLevel.PuzzleLevel (0.048490s)
+[2020.08.21-09.31.08:327][429]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2020.08.21-09.31.08:330][429]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.21-09.31.08:330][429]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.21-09.31.08:330][429]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.21-09.31.08:330][429]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.21-09.31.08:330][429]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.21-09.31.08:330][429]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.21-09.31.08:330][429]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.21-09.31.08:330][429]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.21-09.31.08:330][429]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.21-09.31.08:330][429]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.21-09.31.08:336][429]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.08.21-09.31.08:336][429]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.08.21-09.31.08:336][429]LogAudioMixer: Display: Is Default: Yes
+[2020.08.21-09.31.08:336][429]LogAudioMixer: Display: Sample Rate: 48000
+[2020.08.21-09.31.08:336][429]LogAudioMixer: Display: Channel Count Used: 2
+[2020.08.21-09.31.08:336][429]LogAudioMixer: Display: Device Channel Count: 2
+[2020.08.21-09.31.08:336][429]LogAudioMixer: Display: Channel Order:
+[2020.08.21-09.31.08:336][429]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.21-09.31.08:336][429]LogAudioMixer: Display: 1: FrontRight
+[2020.08.21-09.31.08:370][429]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.08.21-09.31.08:372][429]LogInit: FAudioDevice initialized.
+[2020.08.21-09.31.08:385][429]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.08.21-09.31.08:411][429]LogWorld: Bringing World /Game/GameMaps/UEDPIE_0_PuzzleLevel.PuzzleLevel up for play (max tick rate 60) at 2020.08.21-12.31.08
+[2020.08.21-09.31.08:411][429]LogWorld: Bringing up level for play took: 0.025823
+[2020.08.21-09.31.08:412][429]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2020.08.21-09.31.08:417][429]PIE: Play in editor start time for /Game/GameMaps/UEDPIE_0_PuzzleLevel 0.99
+[2020.08.21-09.31.24:638][395]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.21-09.31.24:641][395]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.08.21-09.31.24:661][395]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.08.21-09.31.24:662][395]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.21-09.31.24:662][395]LogWorld: BeginTearingDown for /Game/GameMaps/UEDPIE_0_PuzzleLevel
+[2020.08.21-09.31.24:662][395]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.21-09.31.24:662][395]LogWorld: UWorld::CleanupWorld for PuzzleLevel, bSessionEnded=true, bCleanupResources=true
+[2020.08.21-09.31.24:667][395]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.21-09.31.24:676][395]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.21-09.31.24:681][395]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.21-09.31.24:708][395]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.21-09.31.24:714][395]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.21-09.31.24:719][395]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2020.08.21-09.31.24:742][396]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.08.21-09.31.37:638][169]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ModularBuildingKit13_WallTopFiller24)
+[2020.08.21-09.31.39:482][266]Cmd: MODE GRID=0
+[2020.08.21-09.31.44:762][567]Cmd: MODE SCALEGRID=0
+[2020.08.21-09.31.46:833][687]Cmd: TRANSACTION UNDO
+[2020.08.21-09.31.46:833][687]LogEditorTransaction: Undo Scale Actors
+[2020.08.21-09.31.48:293][734]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ModularBuildingKit13_WallTopFiller34)
+[2020.08.21-09.31.49:922][790]Cmd: TRANSACTION UNDO
+[2020.08.21-09.31.49:922][790]LogEditorTransaction: Undo Scale Actors
+[2020.08.21-09.32.00:750][351]Cmd: SELECT NONE
+[2020.08.21-09.32.09:048][843]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ModularBuildingKit12-FixedAll_Bridge-End8)
+[2020.08.21-09.32.11:868][  1]Cmd: DELETE
+[2020.08.21-09.32.11:868][  1]Cmd: ACTOR DELETE
+[2020.08.21-09.32.11:886][  1]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.08.21-09.32.11:887][  1]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.08.21-09.32.11:887][  1]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.08.21-09.32.11:887][  1]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.08.21-09.32.11:887][  1]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.08.21-09.32.11:887][  1]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.08.21-09.32.11:888][  1]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.08.21-09.32.11:888][  1]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.08.21-09.32.11:888][  1]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.08.21-09.32.11:888][  1]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.08.21-09.32.11:888][  1]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.08.21-09.32.11:888][  1]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.08.21-09.32.11:890][  1]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.08.21-09.32.11:891][  1]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.08.21-09.32.11:891][  1]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.08.21-09.32.11:891][  1]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.08.21-09.32.11:891][  1]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.08.21-09.32.11:891][  1]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.08.21-09.32.11:917][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.08.21-09.32.11:919][  1]LogEditorActor: Deleted 18 Actors (0.051 secs)
+[2020.08.21-09.32.20:261][501]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ModularBuildingKit12-FixedAll_Ceiling_Floor573)
+[2020.08.21-09.32.21:835][588]Cmd: EDIT COPY
+[2020.08.21-09.32.23:231][641]Cmd: MODE GRID=1
+[2020.08.21-09.32.24:060][673]Cmd: MODE SCALEGRID=1
+[2020.08.21-09.32.24:378][687]Cmd: EDIT PASTE
+[2020.08.21-09.32.34:094][260]Cmd: SELECT NONE
+[2020.08.21-09.32.39:926][555]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2020.08.21-09.32.39:961][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMaps/PuzzleLevel" FILE="D:/Work/Unreal Project/Licenta/Content/GameMaps/PuzzleLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.21-09.32.39:988][555]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.08.21-09.32.40:241][555]LogSavePackage: Moving 'D:/Work/Unreal Project/Licenta/Saved/PuzzleLevelCFC4BDA648287E9AE77D42993A8FF021.tmp' to 'D:/Work/Unreal Project/Licenta/Content/GameMaps/PuzzleLevel.umap'
+[2020.08.21-09.32.40:278][555]LogFileHelpers: Saving map 'PuzzleLevel' took 0.318
+[2020.08.21-09.32.40:303][555]AssetCheck: New page: Asset Save: PuzzleLevel
+[2020.08.21-09.32.40:303][555]LogContentValidation: Display: Validating World /Game/GameMaps/PuzzleLevel.PuzzleLevel
+[2020.08.21-09.32.46:046][888]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/CustomAssets/Animation/BluePlatforms_PuzzleLevel.BluePlatforms_PuzzleLevel
+[2020.08.21-09.32.53:494][196]LogEditorViewport: Clicking on Actor (LMB): RedBlock_Obstacle_C (RedBlock_Obstacle3)
+[2020.08.21-09.33.14:065][897]LogEditorViewport: Clicking on Actor (LMB): RedBlock_Obstacle_C (RedBlock_Obstacle3)

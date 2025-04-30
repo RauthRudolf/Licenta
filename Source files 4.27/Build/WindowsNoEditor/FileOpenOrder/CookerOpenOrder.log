@@ -1,0 +1,355 @@
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Textures/Meshes/ModularBuildingKit12_Lights_BaseColor.uasset" 0
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Textures/Meshes/ModularBuildingKit12_Lights_Normal.uasset" 1
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Textures/Meshes/ModularBuildingKit12_Lights_OcclusionRoughnessMetallic.uasset" 2
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Materials/YellowLights.uasset" 3
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Textures/Meshes/ModularBuildingKit12_Filler2_BaseColor.uasset" 4
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Textures/Meshes/ModularBuildingKit12_Filler2_Normal.uasset" 5
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Textures/Meshes/ModularBuildingKit12_Filler2_OcclusionRoughnessMetallic.uasset" 6
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Materials/Filler2.uasset" 7
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Materials/Lights.uasset" 8
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Meshes/ModularBuildingKit12-FixedAll_Ceiling-Lights.uasset" 9
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Textures/Meshes/ModularBuildingKit12_Filler1_BaseColor.uasset" 10
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Textures/Meshes/ModularBuildingKit12_Filler1_Normal.uasset" 11
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Textures/Meshes/ModularBuildingKit12_Filler1_OcclusionRoughnessMetallic.uasset" 12
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Materials/Filler1.uasset" 13
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Meshes/ModularBuildingKit12-FixedAll_Ceiling_Floor.uasset" 14
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Blueprints/AutoPlatform.uasset" 15
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Animation/AutoPlatform_Start_PuzzleLevel.uasset" 16
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Animation/AutoPlatform_Tutorial.uasset" 17
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Materials/Red.uasset" 18
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 19
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 20
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 21
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 22
+"../../../Engine/Content/BasicShapes/Cube.uasset" 23
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Blueprints/RedBlock_Obstacle.uasset" 24
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Animation/BlueObstacles_PuzzleLevel.uasset" 25
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Materials/Blue.uasset" 26
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Blueprints/BluePlatform.uasset" 27
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Animation/BluePlatforms_PuzzleLevel.uasset" 28
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Animation/BluePlatform_Tutorial.uasset" 29
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Materials/Invisible.uasset" 30
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Blueprints/AutoPlatform_Obstacle.uasset" 31
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Animation/BridgePlatform_Obstacles_PuzzleLevel.uasset" 32
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Animation/EndLevel.uasset" 33
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 34
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 35
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 36
+"../../../Engine/Content/BasicShapes/Cone.uasset" 37
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 38
+"../../../Engine/Content/BasicShapes/Plane.uasset" 39
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 40
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 41
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 42
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 43
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 44
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 45
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 46
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 47
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 48
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 49
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 50
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 51
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 52
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 53
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 54
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 55
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 56
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 57
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 58
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 59
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 60
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 61
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 62
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 63
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 64
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 65
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 66
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 67
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 68
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 69
+"../../../Engine/Content/EditorResources/S_Note.uasset" 70
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 71
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 72
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 73
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 74
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 75
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 76
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 77
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 78
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 79
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 80
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 81
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 82
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 83
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 84
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 85
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 86
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 87
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 88
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 89
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 90
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 91
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 92
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 93
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 94
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 95
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 96
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 97
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 98
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 99
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 100
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 101
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 102
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 103
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 104
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 105
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 106
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 107
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 108
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 109
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 110
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 111
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 112
+"../../../Engine/Content/EngineMaterials/DefaultVirtualTextureMaterial.uasset" 113
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 114
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 115
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 116
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 117
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 118
+"../../../Engine/Content/EngineMaterials/HairDefaultMaterial.uasset" 119
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 120
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 121
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 122
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 123
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 124
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 125
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 126
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 127
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 128
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 129
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 130
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 131
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 132
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 133
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 134
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 135
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 136
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 137
+"../../../Engine/Content/EngineResources/Black.uasset" 138
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 139
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 140
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 141
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 142
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 143
+"../../../Engine/Content/EngineSounds/Master.uasset" 144
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 145
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 146
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 147
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 148
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 149
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 150
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 151
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 152
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 153
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 154
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 155
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 156
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 157
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 158
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 159
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 160
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 161
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 162
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 163
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 164
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 165
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 166
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 167
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 168
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 169
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 170
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 171
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 172
+"../../../Engine/Content/Tutorial/SubEditors/GettingSubstance.uasset" 173
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 174
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 175
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 176
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 177
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 178
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 179
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 180
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 181
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 182
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 183
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 184
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 185
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 186
+"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 187
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 188
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 189
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 190
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 191
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 192
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 193
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 194
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 195
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 196
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 197
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 198
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 199
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Blueprints/WhiteLights.uasset" 200
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Textures/Buttons/Button_0002_StartNormal.uasset" 201
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Textures/Buttons/Button_0005_ExitNormal.uasset" 202
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/Images/CustomAssets/Textures/Buttons/Button_0000_BackonClick.uasset" 203
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/Images/CustomAssets/Textures/Buttons/Button_0000_StartonClick.uasset" 204
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/Images/CustomAssets/Textures/Buttons/Button_0001_BackHover.uasset" 205
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/Images/CustomAssets/Textures/Buttons/Button_0001_StartHover.uasset" 206
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/Images/CustomAssets/Textures/Buttons/Button_0002_BackNormal.uasset" 207
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/Images/CustomAssets/Textures/Buttons/Button_0003_ExitonClick.uasset" 208
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/Images/CustomAssets/Textures/Buttons/Button_0004_ExitHover.uasset" 209
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/Images/CustomAssets/Textures/Buttons/Button_0006_ControlClick.uasset" 210
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/Images/CustomAssets/Textures/Buttons/Button_0007_ControlHover.uasset" 211
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/Images/CustomAssets/Textures/Buttons/Button_0008_ControlNormal.uasset" 212
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/ThirdPersonBP/Blueprints/MainMenuWidget.uasset" 213
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/ThirdPersonBP/Blueprints/MainMenu.uasset" 214
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/ThirdPersonBP/Blueprints/MainMenuController.uasset" 215
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/ThirdPersonBP/Blueprints/ThirdPersonMainMenu.uasset" 216
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/GameMaps/MainMenu_BuiltData.uasset" 217
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Materials/Green.uasset" 218
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Textures/Meshes/ModularBuildingKit12_BridgeEnd_BaseColor.uasset" 219
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Textures/Meshes/ModularBuildingKit12_BridgeEnd_Normal.uasset" 220
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Textures/Meshes/ModularBuildingKit12_BridgeEnd_OcclusionRoughnessMetallic.uasset" 221
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Materials/BridgeEnd.uasset" 222
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Meshes/ModularBuildingKit12-FixedAll_Bridge-End.uasset" 223
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Textures/Meshes/ModularBuildingKit12_CornerWall_BaseColor.uasset" 224
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Textures/Meshes/ModularBuildingKit12_CornerWall_Normal.uasset" 225
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Textures/Meshes/ModularBuildingKit12_CornerWall_OcclusionRoughnessMetallic.uasset" 226
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Materials/CornerWall.uasset" 227
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Meshes/ModularBuildingKit12-FixedAll_Corner.uasset" 228
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Textures/Meshes/ModularBuildingKit12_Door_BaseColor.uasset" 229
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Textures/Meshes/ModularBuildingKit12_Door_Normal.uasset" 230
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Textures/Meshes/ModularBuildingKit12_Door_OcclusionRoughnessMetallic.uasset" 231
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Materials/Door.uasset" 232
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Meshes/ModularBuildingKit12-FixedAll_Doorway.uasset" 233
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Textures/Meshes/ModularBuildingKit12_Floor_BaseColor.uasset" 234
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Textures/Meshes/ModularBuildingKit12_Floor_Normal.uasset" 235
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Textures/Meshes/ModularBuildingKit12_Floor_OcclusionRoughnessMetallic.uasset" 236
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Materials/Floor.uasset" 237
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Meshes/ModularBuildingKit12-FixedAll_Floor-Straight.uasset" 238
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Textures/Meshes/ModularBuildingKit12_Pipe_BaseColor.uasset" 239
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Textures/Meshes/ModularBuildingKit12_Pipe_Normal.uasset" 240
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Textures/Meshes/ModularBuildingKit12_Pipe_OcclusionRoughnessMetallic.uasset" 241
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Materials/Pipe.uasset" 242
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Meshes/ModularBuildingKit12-FixedAll_Pipe.uasset" 243
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Textures/Meshes/ModularBuildingKit12_Pipe2_BaseColor.uasset" 244
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Textures/Meshes/ModularBuildingKit12_Pipe2_Normal.uasset" 245
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Textures/Meshes/ModularBuildingKit12_Pipe2_OcclusionRoughnessMetallic.uasset" 246
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Materials/Pipe2.uasset" 247
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Meshes/ModularBuildingKit12-FixedAll_Pipe2.uasset" 248
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Textures/Meshes/ModularBuildingKit12_Wall_BaseColor.uasset" 249
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Textures/Meshes/ModularBuildingKit12_Wall_Normal.uasset" 250
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Textures/Meshes/ModularBuildingKit12_Wall_OcclusionRoughnessMetallic.uasset" 251
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Materials/Wall.uasset" 252
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Meshes/ModularBuildingKit12-FixedAll_Wall.uasset" 253
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Textures/Meshes/ModularBuildingKit12_Wall2_BaseColor.uasset" 254
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Textures/Meshes/ModularBuildingKit12_Wall2_Normal.uasset" 255
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Textures/Meshes/ModularBuildingKit12_Wall2_OcclusionRoughnessMetallic.uasset" 256
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Materials/Wall2.uasset" 257
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Meshes/ModularBuildingKit12-FixedAll_Wall2.uasset" 258
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Textures/Meshes/Wiring-Fixed_Wires_BaseColor.uasset" 259
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Textures/Meshes/Wiring-Fixed_Wires_Normal.uasset" 260
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Textures/Meshes/Wiring-Fixed_Wires_OcclusionRoughnessMetallic.uasset" 261
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Materials/Wires.uasset" 262
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Meshes/ModularBuildingKit12-FixedAll_Wiring1.uasset" 263
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 264
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 265
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 266
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 267
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 268
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 269
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 270
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset" 271
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 272
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 273
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 274
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 275
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 276
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 277
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset" 278
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" 279
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 280
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 281
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 282
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/Music/MainMenuMusic.uasset" 283
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/Music/MenuSound.uasset" 284
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/GameMaps/MainMenu.umap" 285
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Blueprints/GreenPass_Obstacle.uasset" 286
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 287
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 288
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 289
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/Mannequin/Animations/ThirdPersonRun.uasset" 290
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 291
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 292
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 293
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 294
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" 295
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset" 296
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/GameMaps/PuzzleLevel_BuiltData.uasset" 297
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Meshes/GreenBridge_StaticMesh.uasset" 298
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Meshes/GreenFallthrough_StaticMesh.uasset" 299
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Textures/Meshes/ModularBuildingKit12_DoorTunnel_BaseColor.uasset" 300
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Textures/Meshes/ModularBuildingKit12_DoorTunnel_Normal.uasset" 301
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Textures/Meshes/ModularBuildingKit12_DoorTunnel_OcclusionRoughnessMetallic.uasset" 302
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Materials/DoorTunnel.uasset" 303
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Meshes/ModularBuildingKit12-FixedAll_Doorway_Tunnel.uasset" 304
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Textures/Meshes/ModularBuildingKit12_FloorCorner_BaseColor.uasset" 305
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Textures/Meshes/ModularBuildingKit12_FloorCorner_Normal.uasset" 306
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Textures/Meshes/ModularBuildingKit12_FloorCorner_OcclusionRoughnessMetallic.uasset" 307
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Materials/FloorCorner.uasset" 308
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Meshes/ModularBuildingKit12-FixedAll_Floor-Corner.uasset" 309
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Textures/Meshes/ModularBuildingKit12_FloorCross_BaseColor.uasset" 310
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Textures/Meshes/ModularBuildingKit12_FloorCross_Normal.uasset" 311
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Textures/Meshes/ModularBuildingKit12_FloorCross_OcclusionRoughnessMetallic.uasset" 312
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Materials/FloorCross.uasset" 313
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Meshes/ModularBuildingKit12-FixedAll_Floor-Cross.uasset" 314
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Textures/Meshes/ModularBuildingKit12_FloorEnd_BaseColor.uasset" 315
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Textures/Meshes/ModularBuildingKit12_FloorEnd_Normal.uasset" 316
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Textures/Meshes/ModularBuildingKit12_FloorEnd_OcclusionRoughnessMetallic.uasset" 317
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Materials/FloorEnd.uasset" 318
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Meshes/ModularBuildingKit12-FixedAll_Floor-End.uasset" 319
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Textures/Meshes/ModularBuildingKit12_FloorT_BaseColor.uasset" 320
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Textures/Meshes/ModularBuildingKit12_FloorT_Normal.uasset" 321
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Textures/Meshes/ModularBuildingKit12_FloorT_OcclusionRoughnessMetallic.uasset" 322
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Materials/FloorT.uasset" 323
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Meshes/ModularBuildingKit12-FixedAll_Floor-TJunction.uasset" 324
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Textures/Meshes/ModularBuildingKit12_Railing_BaseColor.uasset" 325
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Textures/Meshes/ModularBuildingKit12_Railing_Normal.uasset" 326
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Textures/Meshes/ModularBuildingKit12_Railing_OcclusionRoughnessMetallic.uasset" 327
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Materials/Railing.uasset" 328
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Meshes/ModularBuildingKit12-FixedAll_Railing.uasset" 329
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Textures/Meshes/ModularBuildingKit13_Door2_BaseColor.uasset" 330
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Textures/Meshes/ModularBuildingKit13_Door2_Normal.uasset" 331
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Textures/Meshes/ModularBuildingKit13_Door2_OcclusionRoughnessMetallic.uasset" 332
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Materials/Door2.uasset" 333
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Meshes/ModularBuildingKit13_Doorway2.uasset" 334
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Meshes/ModularBuildingKit13_Laser.uasset" 335
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Textures/Meshes/ModularBuildingKit13-CornerPiece_WallCornerIn_BaseColor.uasset" 336
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Textures/Meshes/ModularBuildingKit13-CornerPiece_WallCornerIn_Normal.uasset" 337
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Textures/Meshes/ModularBuildingKit13-CornerPiece_WallCornerIn_OcclusionRoughnessMetallic.uasset" 338
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Materials/WallCornerIn.uasset" 339
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Meshes/ModularBuildingKit13_WallCornerIn.uasset" 340
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Textures/Meshes/ModularBuildingKit13_WallTopFiller_BaseColor.uasset" 341
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Textures/Meshes/ModularBuildingKit13_WallTopFiller_Normal.uasset" 342
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Textures/Meshes/ModularBuildingKit13_WallTopFiller_OcclusionRoughnessMetallic.uasset" 343
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Materials/WallTopFill.uasset" 344
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/CustomAssets/Meshes/ModularBuildingKit13_WallTopFiller.uasset" 345
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/Music/LevelMusic.uasset" 346
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/Music/LevelSound.uasset" 347
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/GameMaps/PuzzleLevel.umap" 348
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/GameMaps/Tutorial_BuiltData.uasset" 349
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/Music/TutorialMusic.uasset" 350
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/Music/TutorialSound.uasset" 351
+"../../../../../UNREAL ENGINE/LICENTA BUNA/Licenta/Content/GameMaps/Tutorial.umap" 352
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 353
+"../../../Engine/Content/Maps/Entry.umap" 354
